@@ -2,7 +2,6 @@
 <resources>
     <string name="date_time">E, d M</string>
     <string name="date_time_12">E, d M aa</string>
-    <string name="desc_date_format">E, d M</string>
     <string name="desc_date_format_12">E, d M aa</string>
     <string name="weather_type_6">Acquazzone</string>
     <string name="weather_type_13">Bufera di neve</string>
