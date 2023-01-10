@@ -1,463 +1,615 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="acc_category_color_description">
-        <item>Bianco</item>
-        <item>Blu scuro</item>
-        <item>Azzurro chiaro</item>
-        <item>Rosso</item>
-        <item>Verde</item>
-        <item>Rosa</item>
-        <item>Marrone</item>
-        <item>Grigio</item>
-    </string-array>
-    <string-array name="acc_magic_matting_background_description">
-        <item>Seleziona un\'immagine</item>
-        <item>Sfondo trasparente</item>
-    </string-array>
-    <string-array name="account_user_gender_name">
-        <item>Maschio</item>
-        <item>Femmina</item>
-    </string-array>
-    <string-array name="activities_title">
-        <item>Giorno speciale</item>
-        <item>Giorno da ricordare</item>
-        <item>Momenti vivaci</item>
-    </string-array>
-    <string-array name="annual_foods_title">
-        <item>Un anno fantastico</item>
-        <item>Tre portate. Quattro stagioni.</item>
-    </string-array>
-    <string-array name="annual_travel_title">
-        <item>Ciao mondo!</item>
-        <item>In viaggio</item>
-        <item>Un caleidoscopio di luoghi</item>
-    </string-array>
-    <string-array name="autumn_season_title">
-        <item>Splendore autunnale</item>
-        <item>Autunno Radioso</item>
-    </string-array>
-    <string-array name="baby_sexy">
-        <item>Ragazzo</item>
-        <item>Ragazza</item>
-    </string-array>
-    <string-array name="backup_automatically_key_words">
-        <item>Backup delle foto</item>
-        <item>Sincronizza le foto con il cloud</item>
-    </string-array>
-    <string-array name="card_last_week_day">
-        <item>Lunedì scorso</item>
-        <item>Martedì scorso</item>
-        <item>Mercoledì scorso</item>
-        <item>Giovedì scorso</item>
-        <item>Venerdì scorso</item>
-    </string-array>
-    <string-array name="chinese_holiday_last_year">
-        <item>"Ultimo Capodanno Cinese"</item>
-        <item>Ultimo Capodanno Cinese</item>
-        <item>Ultimo Festival Della Lanterna</item>
-        <item>Ultimo Festival delle Barche Drago</item>
-        <item>Ultimo Festival di Qixi</item>
-        <item>Ultimo Festival di Metà Autunno</item>
-    </string-array>
-    <string-array name="chinese_holiday_past_year">
-        <item>"Capodanno Cinese negli anni"</item>
-        <item>Capodanno Cinese negli anni</item>
-        <item>Festival delle Lanterne negli anni</item>
-        <item>Festival delle barche del drago negli anni</item>
-        <item>Festival Qixi negli anni</item>
-        <item>Festival di Metà Autunno negli anni</item>
-    </string-array>
-    <string-array name="chinese_new_year_eve_title">
-        <item>Una serata da ricordare</item>
-        <item>Nuova pagina</item>
-        <item>Fuochi d\'artificio</item>
-    </string-array>
-    <string-array name="chinese_new_year_title">
-        <item>Buon Anno Nuovo!</item>
-        <item>Alba del nuovo anno</item>
-    </string-array>
-    <string-array name="chinese_zodiac_year">
-        <item>Anno della Scimmia</item>
-        <item>Anno del Gallo</item>
-        <item>Anno del Cane</item>
-        <item>Anno del Maiale</item>
-        <item>Anno del Topo</item>
-        <item>Anno del Bue</item>
-        <item>Anno della Tigre</item>
-        <item>Anno del Coniglio</item>
-        <item>Anno del Drago</item>
-        <item>Anno del Serpente</item>
-        <item>Anno del Cavallo</item>
-        <item>Anno della Capra</item>
-    </string-array>
-    <string-array name="city_title">
-        <item>Paesaggi Urbani</item>
-        <item>Strade ed angoli</item>
-    </string-array>
-    <string-array name="flowers_title">
-        <item>Petali delicati</item>
-        <item>In piena fioritura</item>
-    </string-array>
-    <string-array name="forest_title">
-        <item>Nella natura selvaggia</item>
-        <item>Selvaggio e libero</item>
-    </string-array>
-    <string-array name="group_people_title">
-        <item>I nostri ritrovi</item>
-        <item>In compagnia degli amici</item>
-        <item>Non vedi da molto tempo</item>
-    </string-array>
-    <string-array name="holiday_last_year">
-        <item>"Il Capodanno precedente"</item>
-        <item>"Lo scorso San Valentino"</item>
-        <item>La scorsa giornata del lavoro</item>
-        <item>"La scorsa giornata dei bambini"</item>
-        <item>La scorsa Festa nazionale</item>
-        <item>Lo scorso Natale</item>
-    </string-array>
-    <string-array name="holiday_past_year">
-        <item>"Capodanno negli anni"</item>
-        <item>"San Valentino negli anni"</item>
-        <item>Giornata del lavoro negli anni</item>
-        <item>"Giornata dei bambini negli anni"</item>
-        <item>Festa nazionale negli anni</item>
-        <item>Natale negli anni</item>
-    </string-array>
-    <string-array name="important_people_title">
-        <item>I tuoi soggetti preferiti</item>
-        <item>Spiriti gentili</item>
-        <item>"I momenti brillanti della vita"</item>
-    </string-array>
-    <string-array name="last_month">
-        <item>Gennaio</item>
-        <item>Febbraio</item>
-        <item>Marzo</item>
-        <item>Aprile</item>
-        <item>Maggio</item>
-        <item>Giugno</item>
-        <item>Luglio</item>
-        <item>Agosto</item>
-        <item>Settembre</item>
-        <item>Ottobre</item>
-        <item>Novembre</item>
-        <item>Dicembre</item>
-    </string-array>
-    <string-array name="last_some_day_babies_title">
-        <item>Impegnato a crescere</item>
-        <item>Sempre più carini</item>
-        <item>Piccolo esploratore</item>
-    </string-array>
-    <string-array name="last_some_day_fit_title">
-        <item>Diario di fitness</item>
-        <item>Ancora più forte!</item>
-    </string-array>
-    <string-array name="last_some_day_foods_title">
-        <item>Buon appetito!</item>
-        <item>Un altro morso?</item>
-        <item>Goditi il pasto!</item>
-    </string-array>
-    <string-array name="last_some_day_playground_title">
-        <item>Sorridi e saluta!</item>
-        <item>Tempo di gioco</item>
-    </string-array>
-    <string-array name="last_some_day_ski_title">
-        <item>Momenti all\'aperto</item>
-        <item>Tracce sulla neve</item>
-    </string-array>
-    <string-array name="last_some_day_sports_title">
-        <item>Inarrestabile</item>
-        <item>Rimanere in forma</item>
-    </string-array>
-    <string-array name="last_some_day_wedding_title">
-        <item>Un grande giorno</item>
-        <item>Lungo il corridoio!</item>
-    </string-array>
-    <string-array name="last_week_baby_title">
-        <item>È ora di giocare</item>
-        <item>"Weekend dei bambini"</item>
-        <item>Il piccolino</item>
-    </string-array>
-    <string-array name="last_weekend_title">
-        <item>I miei weekend</item>
-        <item>Scorci di vita</item>
-        <item>Ricordi dei weekend</item>
-    </string-array>
-    <string-array name="last_year_group_people">
-        <item>Nuovi amici e vecchie conoscenze</item>
-        <item>"Riunificazione dell'anno scorso"</item>
-    </string-array>
-    <string-array name="magic_effects_audio_titles">
-        <item></item>
-        <item></item>
-        <item>Piacere</item>
-        <item>Brezza</item>
-        <item>Sogni</item>
-        <item>Nuvole</item>
-        <item>Pensieri</item>
-        <item>Scheletri</item>
-        <item>Metamorfosi</item>
-        <item>Profondità</item>
-        <item>Riflessi</item>
-        <item>Minimalista</item>
-        <item>Mistero</item>
-        <item>Nebbia</item>
-    </string-array>
-    <string-array name="magic_effects_description">
-        <item>Trasforma gli sfondi in dipinti</item>
-        <item>Sfondi in stile acquerello</item>
-        <item>Cyberpunk retro</item>
-        <item>Segmenti verticali non allineati</item>
-        <item>Sfocatura nebbiosa</item>
-        <item>Sensazione futuristica</item>
-    </string-array>
-    <string-array name="magic_effects_title">
-        <item>Fumetto</item>
-        <item>Acquarello</item>
-        <item>RGB</item>
-        <item>Oscuro</item>
-        <item>Finestra nebbiosa</item>
-        <item>Tech</item>
-    </string-array>
-    <string-array name="magic_effects_video_titles">
-        <item></item>
-        <item>Bordo colorato</item>
-        <item>Bordo tratteggiato</item>
-        <item>Bordo fluorescente</item>
-        <item>Ombra colorata</item>
-        <item>Onda elettrica</item>
-        <item>Attuale</item>
-        <item>Onde</item>
-        <item>Particelle</item>
-        <item>Testo</item>
-        <item>Ali</item>
-        <item>Angelo</item>
-    </string-array>
-    <string-array name="magic_idp_size_category">
-        <item>Generale</item>
-        <item>Viaggi</item>
-        <item>Lavoro</item>
-        <item>Documenti</item>
-        <item>Educazione</item>
-        <item>Esami</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_certificates">
-        <item>Sicurezza sociale</item>
-        <item>Dichiarazione sulla salute</item>
-        <item>Assicurazione medica</item>
-        <item>ID</item>
-        <item>Permesso di soggiorno</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_common">
-        <item></item>
-        <item>One cun</item>
-        <item>Teo cuns</item>
-        <item>Smaller one cun</item>
-        <item>Smaller two cuns</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_education">
-        <item>Applicazione di ammissione</item>
-        <item>Rete di studenti</item>
-        <item>Rete di studenti per scuole elementari</item>
-        <item>Profilo di rete degli studenti</item>
-        <item>Iscrizione universitaria</item>
-        <item>NCEE</item>
-        <item>Riprendi</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_examination">
-        <item>Test di Inglese del College 1</item>
-        <item>Test di Inglese del College 2</item>
-        <item>Test di Inglese del College 3</item>
-        <item>Test Di Competenza Putonghua 1</item>
-        <item>Test Di Competenza Putonghua 2</item>
-        <item>Test di Laurea in Inglese</item>
-        <item>PET per università</item>
-        <item>PET Livello 3</item>
-        <item>Esame Nazionale Rango Informatico 1</item>
-        <item>Esame Nazionale Rango Informatico 2</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_profession">
-        <item>Certificazione insegnante della scuola primaria e secondaria</item>
-        <item>Certificazione insegnante</item>
-        <item>"Patente di guida"</item>
-        <item>Permesso di guida</item>
-        <item>Autorizzazione di guida elettronica</item>
-        <item>Esame giuridico nazionale</item>
-        <item>Certificato elettronico di prima classe</item>
-        <item>Certificato costruttore di seconda categoria</item>
-        <item>Esame contabile Junior</item>
-        <item>Responsabile pubblico certificato</item>
-        <item>Permesso guida Pechino</item>
-        <item>Esame intermedio contabile</item>
-        <item>Esame contabile superiore</item>
-        <item>Certificato di qualifica contabile</item>
-        <item>Esame contabile pubblico certificato</item>
-    </string-array>
-    <string-array name="magic_idp_size_category_visa">
-        <item>Stati Uniti</item>
-        <item>Vietnam</item>
-        <item>Giappone</item>
-        <item>Hong Kong e Macao</item>
-        <item>Corea Del Sud</item>
-        <item>Thailandia (turista)</item>
-        <item>Thailandia (all\'arrivo)</item>
-        <item>India</item>
-        <item>Israele</item>
-        <item>Tailandia</item>
-        <item>Malesia</item>
-        <item>Nuova Zelanda</item>
-        <item>Italia</item>
-        <item>Argentina</item>
-        <item>Brasile</item>
-        <item>Islanda</item>
-        <item>Kenya</item>
-    </string-array>
-    <string-array name="magic_system_model">
-        <item>Mi 10</item>
-        <item>Mi 10 Pro</item>
-        <item>Mi 11</item>
-        <item>Mi 11 Pro</item>
-    </string-array>
-    <string-array name="menu_copy_or_move">
-        <item>Sposta</item>
-        <item>Copia</item>
-        <item>@string/cancel</item>
-    </string-array>
-    <string-array name="month">
-        <item>Gennaio</item>
-        <item>Febbraio</item>
-        <item>Marzo</item>
-        <item>Aprile</item>
-        <item>Maggio</item>
-        <item>Giugno</item>
-        <item>Luglio</item>
-        <item>Agosto</item>
-        <item>Settembre</item>
-        <item>Ottobre</item>
-        <item>Novembre</item>
-        <item>Dicembre</item>
-    </string-array>
-    <string-array name="month_last_year">
-        <item>Lo scorso Gennaio</item>
-        <item>Lo scorso Febbraio</item>
-        <item>Lo scorso Marzo</item>
-        <item>Lo scorso Aprile</item>
-        <item>Lo scorso Maggio</item>
-        <item>Lo scorso Giugno</item>
-        <item>Lo scorso Luglio</item>
-        <item>Lo scorso Agosto</item>
-        <item>Lo scorso Settembre</item>
-        <item>Lo scorso Ottobre</item>
-        <item>Lo scorso Novembre</item>
-        <item>Lo scorso Dicembre</item>
-    </string-array>
-    <string-array name="monthly_babies_title">
-        <item>"Sei cresciuto!"</item>
-        <item>"Sei cresciuto di nuovo!"</item>
-    </string-array>
-    <string-array name="monthly_foods_title">
-        <item>Il mio menù personale</item>
-        <item>Ricordi saporiti</item>
-        <item>Seconda assistenza, per favore!</item>
-    </string-array>
-    <string-array name="mountain_title">
-        <item>"I migliori panorami del mondo"</item>
-        <item>Continua a scalare</item>
-    </string-array>
-    <string-array name="owner_relation">
-        <item>Padre</item>
-        <item>Madre</item>
-        <item>Nonno paterno</item>
-        <item>Nonna paterna</item>
-        <item>Nonno materno</item>
-        <item>Nonna materna</item>
-    </string-array>
-    <string-array name="parties_title">
-        <item>Insieme</item>
-        <item>Bei momenti</item>
-        <item>All\'unisono</item>
-    </string-array>
-    <string-array name="people_travel_title">
-        <item>Dove la strada ci conduce</item>
-        <item>Viaggi ben condivisi</item>
-    </string-array>
-    <string-array name="quarterly_babies_title">
-        <item>Primavera allegra</item>
-        <item>Un\'estate gioiosa</item>
-        <item>Un buon autunno</item>
-        <item>Un inverno divertente</item>
-    </string-array>
-    <string-array name="quarterly_foods_title">
-        <item>Pasti primaverili</item>
-        <item>Momenti estivi</item>
-        <item>Feste autunnali</item>
-        <item>Rimbocchi invernali</item>
-    </string-array>
-    <string-array name="recent_group_people">
-        <item>Insieme</item>
-        <item>Obbligazioni e legami</item>
-    </string-array>
-    <string-array name="relation_with_me">
-        <item>Io</item>
-        <item>Figlio</item>
-        <item>Famiglia</item>
-        <item>Colleghi</item>
-        <item>Compagni di classe</item>
-        <item>Amici</item>
-        <item>Non raggruppato</item>
-    </string-array>
-    <string-array name="season">
-        <item>Primavera</item>
-        <item>Estate</item>
-        <item>Autunno</item>
-        <item>Inverno</item>
-    </string-array>
-    <string-array name="season_last_year">
-        <item>La scorsa Primavera</item>
-        <item>La scorsa Estate</item>
-        <item>Lo scorso Autunno</item>
-        <item>Lo scorso Inverno</item>
-    </string-array>
-    <string-array name="sharer_relation_addressive">
-        <item>Padre</item>
-        <item>Madre</item>
-        <item>Nonno paterno</item>
-        <item>Nonna paterna</item>
-        <item>Nonno materno</item>
-        <item>Nonna materna</item>
-    </string-array>
-    <string-array name="spinner_list">
-        <item>px</item>
-        <item>mm</item>
-    </string-array>
-    <string-array name="sports_title">
-        <item>Andare avanti</item>
-        <item>Pieno di energia</item>
-    </string-array>
-    <string-array name="spring_season_title">
-        <item>Fioriture di primavera</item>
-        <item>La primavera è nell\'aria</item>
-        <item>Buongiorno primavera!</item>
-    </string-array>
-    <string-array name="summer_season_title">
-        <item>Un po\' d\'estate</item>
-        <item>Dove l\'estate non finisce mai</item>
-    </string-array>
-    <string-array name="sunrise_sunset_title">
-        <item>Momenti d\'oro</item>
-        <item>Raggi d\'oro</item>
-    </string-array>
-    <string-array name="three_month_baby_title">
-        <item>Crescono così velocemente</item>
-        <item>"Foto dei bambini"</item>
-    </string-array>
-    <string-array name="weekend_title">
-        <item>Ultimi weekend</item>
-        <item>Giorni da ricordare</item>
-        <item>Eventi giornalieri</item>
-        <item>Ordinario e Straordinario</item>
-    </string-array>
-    <string-array name="winter_season_title">
-        <item>Giornate invernali</item>
-        <item>Meraviglie invernali</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="add_secret_ensure_message">
+        <item quantity="other">Nascondere questi file?</item>
+        <item quantity="one">Nascondere questo file?</item>
+    </plurals>
+    <plurals name="add_to_album_cloud_photo_count_tip">
+        <item quantity="other">Aggiunte %d foto su cloud, disattiva \"Mostra solo gli album locali\" per vederle.</item>
+        <item quantity="one">Aggiunta %d foto su cloud, disattiva \"Mostra solo gli album locali\" pe vederla.</item>
+    </plurals>
+    <plurals name="add_to_album_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elementi non possono essere aggiunti all'album. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere aggiunto all'album. %1$s."</item>
+    </plurals>
+    <plurals name="add_to_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elementi non possono essere aggiunti all'album nascosto. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere aggiunto all'album nascosto. %1$s."</item>
+    </plurals>
+    <plurals name="age_day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="age_month">
+        <item quantity="other">%d mesi</item>
+        <item quantity="one">%d mese</item>
+    </plurals>
+    <plurals name="age_year">
+        <item quantity="other">%d anni</item>
+        <item quantity="one">%d anno</item>
+    </plurals>
+    <plurals name="album_already_share_user_count">
+        <item quantity="other">Già condiviso con %d persone</item>
+        <item quantity="one">Già condiviso con %d persona</item>
+    </plurals>
+    <plurals name="album_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="album_count_and_size">
+        <item quantity="other">%1$d elementi | %2$s</item>
+        <item quantity="one">%1$d elemento | %2$s</item>
+    </plurals>
+    <plurals name="album_item_msg_format">
+        <item quantity="other">(%d elementi totali)</item>
+        <item quantity="one">(%d elemento totale)</item>
+    </plurals>
+    <plurals name="album_member">
+        <item quantity="other">%s persone possono visualizzare questo album</item>
+        <item quantity="one">%s persona può visualizzare questo album</item>
+    </plurals>
+    <plurals name="album_permission_subtitle_multiple">
+        <item quantity="other">%2$d album inclusi %1$s</item>
+        <item quantity="one">%2$d album incluso %1$s</item>
+    </plurals>
+    <plurals name="album_photo_count_text">
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
+    </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d ricordi</item>
+        <item quantity="one">%d ricordo</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_new_pictures">
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
+    </plurals>
+    <plurals name="baby_album_sharer_recommand_old_pictures">
+        <item quantity="other">%1$d foto di %2$s da aggiungere</item>
+        <item quantity="one">%1$d foto di %2$s da aggiungere</item>
+    </plurals>
+    <plurals name="backup_after_hours">
+        <item quantity="other">Ripristina backup tra %d ore</item>
+        <item quantity="one">Ripristina backup tra %d ora</item>
+    </plurals>
+    <plurals name="backup_file_over_size_title">
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
+    </plurals>
+    <plurals name="backup_pause_desc">
+        <item quantity="other">%d foto e video | Pausa</item>
+        <item quantity="one">%d foto o video | Pausa</item>
+    </plurals>
+    <plurals name="backup_pause_dialog_message">
+        <item quantity="other">Sospendi la sincronizzazione di foto, video, contatti, note e altri elementi con il cloud per %d minuti.</item>
+        <item quantity="one">Sospendi la sincronizzazione di foto, video, contatti, note e altri elementi con il cloud per %d minuto.</item>
+    </plurals>
+    <plurals name="backuping_desc_gprs">
+        <item quantity="other">%1$d foto e video | %2$s</item>
+        <item quantity="one">%1$d foto o video | %2$s</item>
+    </plurals>
+    <plurals name="backuping_desc_normal">
+        <item quantity="other">%1$d foto e video</item>
+        <item quantity="one">%1$d foto o video</item>
+    </plurals>
+    <plurals name="burst_image_download_item_title_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_message">
+        <item quantity="other">"Eliminare %d foto non selezionate?"</item>
+        <item quantity="one">"Eliminare %d foto non selezionata?"</item>
+    </plurals>
+    <plurals name="burst_save_confirm_dialog_title">
+        <item quantity="other">Eliminare %d foto</item>
+        <item quantity="one">Eliminare %d foto</item>
+    </plurals>
+    <plurals name="burst_save_selected">
+        <item quantity="other">Mantenere %d foto selezionate</item>
+        <item quantity="one">Mantenere %d foto selezionata</item>
+    </plurals>
+    <plurals name="cloud_storage_photo_num">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="cloud_storage_video_num">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="cloud_storage_warn_title_link">
+        <item quantity="other">"Impossibile sincronizzare %d elementi, spazio sul cloud insufficiente"</item>
+        <item quantity="one">"Impossibile sincronizzare %d elemento, spazio sul cloud insufficiente"</item>
+    </plurals>
+    <plurals name="collage_select_image_dynamic_range">
+        <item quantity="other">I collage possono contenere %1$d-%2$d foto</item>
+        <item quantity="one">I collage possono contenere %1$d-%2$d foto</item>
+    </plurals>
+    <plurals name="creation_max_image">
+        <item quantity="other">Seleziona fino a %d foto</item>
+        <item quantity="one">Seleziona fino a %d foto</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="delete_brust_title">
+        <item quantity="other">Eliminare %d raffiche?</item>
+        <item quantity="one">Eliminare %d raffica?</item>
+    </plurals>
+    <plurals name="delete_burst_photo_from_local">
+        <item quantity="other">Eliminare %d raffiche?</item>
+        <item quantity="one">Eliminare %d raffica?</item>
+    </plurals>
+    <plurals name="delete_finish_format">
+        <item quantity="other">%d elementi eliminati</item>
+        <item quantity="one">%d elemento eliminato</item>
+    </plurals>
+    <plurals name="delete_media_from_all_devices_and_cloud_msg">
+        <item quantity="other">Eliminare %d elementi da tutti i dispositivi e Mi Cloud?</item>
+        <item quantity="one">Eliminare %d elemento da tutti i dispositivi e Mi Cloud?</item>
+    </plurals>
+    <plurals name="delete_media_from_local">
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
+    </plurals>
+    <plurals name="delete_media_title">
+        <item quantity="other">Eliminare %d elementi?</item>
+        <item quantity="one">Eliminare %d elemento?</item>
+    </plurals>
+    <plurals name="delete_third_party_burst_photo">
+        <item quantity="other">Eliminare %d raffiche dal tuo dispositivo?</item>
+        <item quantity="one">Eliminare %d raffica dal tuo dispositivo?</item>
+    </plurals>
+    <plurals name="download_error">
+        <item quantity="other">"Errore download per %1$d file"</item>
+        <item quantity="one">"Errore download per %1$d file"</item>
+    </plurals>
+    <plurals name="download_retry_message">
+        <item quantity="other">"Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo"</item>
+        <item quantity="one">"Non è stato possibile scaricare %1$d file, controlla la connessione di rete e prova di nuovo"</item>
+    </plurals>
+    <plurals name="downloading_title_link">
+        <item quantity="other">Download elementi dal cloud (%2$d/%1$d)</item>
+        <item quantity="one">Download elementi dal cloud (%2$d/%1$d)</item>
+    </plurals>
+    <plurals name="face_count">
+        <item quantity="other">%d foto in totale</item>
+        <item quantity="one">%d foto in totale</item>
+    </plurals>
+    <plurals name="fail_reason_processing_file">
+        <item quantity="other">Elaborazione foto…</item>
+        <item quantity="one">Elaborazione foto…</item>
+    </plurals>
+    <plurals name="fast_share_auto_render_failed">
+        <item quantity="other">"%1$d foto saltate perché impossibile visualizzare."</item>
+        <item quantity="one">"Una foto saltata perché impossibile visualizzare."</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d elementi</item>
+        <item quantity="one">%1$d elemento</item>
+    </plurals>
+    <plurals name="miplay_time_minute_unit">
+        <item quantity="other">%d minuti</item>
+        <item quantity="one">%d minuto</item>
+    </plurals>
+    <plurals name="miplay_time_second_unit">
+        <item quantity="other">%d secondi</item>
+        <item quantity="one">%d secondo</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="number_of_images_and_videos_to_upload">
+        <item quantity="other">%1$d elementi in attesa di sincronizzazione</item>
+        <item quantity="one">1 elemento in attesa di sincronizzazione</item>
+    </plurals>
+    <plurals name="number_of_images_synced">
+        <item quantity="other">%1$d foto</item>
+        <item quantity="one">1 foto</item>
+    </plurals>
+    <plurals name="number_of_images_to_upload">
+        <item quantity="other">%1$d foto in attesa di sincronizzazione</item>
+        <item quantity="one">1 foto da caricare</item>
+    </plurals>
+    <plurals name="number_of_uploading_images">
+        <item quantity="other">Sincronizzazione di %1$d foto…</item>
+        <item quantity="one">Sincronizzazione di 1 foto…</item>
+    </plurals>
+    <plurals name="number_of_uploading_images_and_videos">
+        <item quantity="other">Sincronizzazione di %1$d elementi…</item>
+        <item quantity="one">Sincronizzazione di 1 elemento…</item>
+    </plurals>
+    <plurals name="number_of_uploading_videos">
+        <item quantity="other">Sincronizzazione di %1$d video…</item>
+        <item quantity="one">Sincronizzazione di 1 video…</item>
+    </plurals>
+    <plurals name="number_of_videos_synced">
+        <item quantity="other">%1$d video</item>
+        <item quantity="one">1 video</item>
+    </plurals>
+    <plurals name="number_of_videos_to_upload">
+        <item quantity="other">%1$d video in attesa di sincronizzazione</item>
+        <item quantity="one">1 video da caricare</item>
+    </plurals>
+    <plurals name="photo_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="photo_count_format">
+        <item quantity="other">%1$d elementi totali</item>
+        <item quantity="one">%1$d elemento totale</item>
+    </plurals>
+    <plurals name="photo_editor_talkback_crop_scale_value">
+        <item quantity="other">Ruota di %d gradi</item>
+        <item quantity="one">Ruota di %d grado</item>
+    </plurals>
+    <plurals name="photo_remain_days">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="photo_remain_hours">
+        <item quantity="other">%d ore</item>
+        <item quantity="one">%d ora</item>
+    </plurals>
+    <plurals name="pic_to_pdf_filter_count">
+        <item quantity="other">Filtrati %d elementi non supportati</item>
+        <item quantity="one">Filtrato %d elemento non supportato</item>
+    </plurals>
+    <plurals name="pic_to_pdf_support_max_count">
+        <item quantity="other">I file PDF possono contenere fino a %d immagini</item>
+        <item quantity="one">I file PDF possono contenere fino a %d immagine</item>
+    </plurals>
+    <plurals name="picker_all_image_need_download">
+        <item quantity="other">"Le foto selezionate non sono su questo dispositivo. Vuoi scaricarle tramite la rete dati cellulare?"</item>
+        <item quantity="one">"La foto selezionata non è su questo dispositivo. Vuoi scaricarla tramite la rete dati cellulare?"</item>
+    </plurals>
+    <plurals name="picker_all_image_will_download">
+        <item quantity="other">"Le foto selezionate non sono su questo dispositivo. Verranno scaricate."</item>
+        <item quantity="one">"La foto selezionata non è su questo dispositivo. Verrà scaricata."</item>
+    </plurals>
+    <plurals name="picker_all_origin_need_download">
+        <item quantity="other">"Le foto selezionate (%dMB) non sono su questo dispositivo. uoi scaricarle tramite la rete dati cellulare?"</item>
+        <item quantity="one">"La foto selezionata (%dMB) non è su questo dispositivo. Vuoi scaricarla tramite la rete dati cellulare?"</item>
+    </plurals>
+    <plurals name="picker_cancel_confirm_message">
+        <item quantity="other">"Annullare il download di %d foto rimanenti?"</item>
+        <item quantity="one">"Annullare il download della foto rimanente"</item>
+    </plurals>
+    <plurals name="picker_file_will_download">
+        <item quantity="other">Download di %d file rimanenti</item>
+        <item quantity="one">Download di %d file rimanente</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_image_confirm_message">
+        <item quantity="other">"Impossibile scaricare %1$d foto, collegati alla rete e riprova"</item>
+        <item quantity="one">"Impossibile scaricare una foto, collegati alla rete e riprova"</item>
+    </plurals>
+    <plurals name="picker_no_network_retry_origin_confirm_message">
+        <item quantity="other">"Impossibile scaricare %1$d foto (%2$dMB), collegati alla rete e riprova\""</item>
+        <item quantity="one">"Impossibile scaricare una foto (%2$dMB), collegati alla rete e riprova\""</item>
+    </plurals>
+    <plurals name="picker_origin_need_to_download">
+        <item quantity="other">"%1$d file (%2$dMB) non sono ancora stati scaricati. Vuoi scaricarli utilizzando i dati?"</item>
+        <item quantity="one">"%1$d file (%2$dMB) non è ancora stato scaricato. Vuoi scaricarlo utilizzando la rete dati mobile?"</item>
+    </plurals>
+    <plurals name="picker_retry_image_confirm_message">
+        <item quantity="other">"Impossibile scaricare %1$d foto. Riprovare?"</item>
+        <item quantity="one">"Impossibile scaricare la foto. Riprovare?"</item>
+    </plurals>
+    <plurals name="picker_retry_origin_confirm_message">
+        <item quantity="other">"Impossibile scaricare %1$d foto (%2$dMB). Riprovare?\""</item>
+        <item quantity="one">"Impossibile scaricare (%2$dMB). Riprovare?\""</item>
+    </plurals>
+    <plurals name="picker_skip_unavailable_images">
+        <item quantity="other">"%d foto saltate perché non presenti sul dispositivo."</item>
+        <item quantity="one">"Una foto è stata saltata perché non presente sul dispositivo."</item>
+    </plurals>
+    <plurals name="quickly_discovery_message_format">
+        <item quantity="other">Trovate %1$d nuove foto</item>
+        <item quantity="one">Trovata 1 nuova foto</item>
+    </plurals>
+    <plurals name="remind_face_recommend_confirm_text">
+        <item quantity="other">%d foto in totale</item>
+        <item quantity="one">%d foto in totale</item>
+    </plurals>
+    <plurals name="remove_from_secret_failed_with_reason_and_count">
+        <item quantity="other">"%2$d elementi non possono essere eliminati dall'album nascosto. %1$s."</item>
+        <item quantity="one">"%2$d elemento non può essere rimosso dall'album nascosto. %1$s."</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_negative">
+        <item quantity="other">%1$d foto aggiunte a \"%2$s\" e al database.</item>
+        <item quantity="one">%1$d foto aggiunta a \"%2$s\" e al database.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_and_contribute_false_positive">
+        <item quantity="other">%1$d foto rimosse da \"%2$s\" e aggiunte al database.</item>
+        <item quantity="one">%1$d foto rimossa da \"%2$s\" e aggiunta al database.</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_negative">
+        <item quantity="other">%1$d foto aggiunte a \"%2$s\".</item>
+        <item quantity="one">%1$d foto aggiunta a \"%2$s\".</item>
+    </plurals>
+    <plurals name="search_feedback_done_mark_false_positive">
+        <item quantity="other">%1$d foto rimosse da \"%2$s\".</item>
+        <item quantity="one">%1$d foto rimossa da \"%2$s\".</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d pacchetti installazione (%3$s) da %1$s</item>
+        <item quantity="one">%2$d pacchetto installazione (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d pacchetti installazione (%3$s) da %1$s</item>
+        <item quantity="one">Ricevuto %2$d pacchetto installazione (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d pacchetti installazione (%3$s) da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d pacchetto installazione (%3$s) da %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d file audio (%3$s) da %1$s</item>
+        <item quantity="one">%2$d file audio (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d file audio (%3$s) da %1$s</item>
+        <item quantity="one">Ricevuto %2$d file audio (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d file audio (%3$s) da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d file audio (%3$s) da %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">%2$d %3$s file (%4$s) da %1$s</item>
+        <item quantity="one">%2$d %3$s file (%4$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d %3$s file (%4$s) da %1$s</item>
+        <item quantity="one">Ricevuto %2$d %3$s file (%4$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d %3$s file (%4$s) da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d %3$s file (%4$s) da %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">%2$d immagini da %1$s</item>
+        <item quantity="one">%2$d immagine da %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Ricevute %2$d immagini da %1$s</item>
+        <item quantity="one">Ricevuta %2$d immagine da %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d immagini da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d immagine da %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">%2$d immagini e video da %1$s</item>
+        <item quantity="one">%2$d immagine o video da %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Ricevute %2$d immagini e video da %1$s</item>
+        <item quantity="one">Ricevuta %2$d immagine o video da %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d immagini e video da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d immagine o video da %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">%2$d file da %1$s</item>
+        <item quantity="one">%2$d file da %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d file da %1$s</item>
+        <item quantity="one">Ricevuto %2$d file da %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d file da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d file da %1$s…</item>
+    </plurals>
+    <plurals name="send_processing_files_error">
+        <item quantity="other">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
+        <item quantity="one">"Impossibile condividere. %d foto ancora in elaborazione…"</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">%2$d video da %1$s</item>
+        <item quantity="one">%2$d video da %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d video da %1$s</item>
+        <item quantity="one">Ricevuto %2$d video da %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d video da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d video da %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d archivi (%3$s) da %1$s</item>
+        <item quantity="one">%2$d archivio (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Ricevuti %2$d archivi (%3$s) da %1$s</item>
+        <item quantity="one">Ricevuto %2$d archivio (%3$s) da %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Ricezione di %2$d archivi (%3$s) da %1$s…</item>
+        <item quantity="one">Ricezione di %2$d archivio (%3$s) da %1$s…</item>
+    </plurals>
+    <plurals name="slideshow_interval_value">
+        <item quantity="other">%1$d secondi</item>
+        <item quantity="one">%1$d secondo</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count">
+        <item quantity="other">%d foto ottimizzate</item>
+        <item quantity="one">%d foto ottimizzata</item>
+    </plurals>
+    <plurals name="slim_complete_photo_count_v2">
+        <item quantity="other">%d foto ottimizzate</item>
+        <item quantity="one">%d foto ottimizzata</item>
+    </plurals>
+    <plurals name="slim_complete_video_count">
+        <item quantity="other">%d video ottimizzati</item>
+        <item quantity="one">%d video ottimizzato</item>
+    </plurals>
+    <plurals name="slim_exit_dialog_message">
+        <item quantity="other">"%d foto non sono state ottimizzate. Interrompere adesso?"</item>
+        <item quantity="one">"%d foto non è stata ottimizzata. Interrompere adesso?"</item>
+    </plurals>
+    <plurals name="slim_photo_count">
+        <item quantity="other">%d foto</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count">
+        <item quantity="other">%d foto rimanenti</item>
+        <item quantity="one">%d foto rimanente</item>
+    </plurals>
+    <plurals name="slim_remain_photo_count_v2">
+        <item quantity="other">%d elementi da ottimizzare</item>
+        <item quantity="one">%d elemento da ottimizzare</item>
+    </plurals>
+    <plurals name="slim_videos_count">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
+    </plurals>
+    <plurals name="sync_error_title">
+        <item quantity="other">"Non è stato eseguito il backup di %d foto e video"</item>
+        <item quantity="one">"Non è stato eseguito il backup di %d foto o video"</item>
+    </plurals>
+    <plurals name="sync_oversized_count">
+        <item quantity="other">%d elementi sono troppo grandi per eseguirne il backup</item>
+        <item quantity="one">%d elemento troppo grande per eseguirne il backup</item>
+    </plurals>
+    <plurals name="sync_total_count">
+        <item quantity="other">%d elementi</item>
+        <item quantity="one">%d elemento</item>
+    </plurals>
+    <plurals name="synced_photo_count">
+        <item quantity="other">Sincronizzate %d foto</item>
+        <item quantity="one">Sincronizzata %d foto</item>
+    </plurals>
+    <plurals name="synced_videos_count">
+        <item quantity="other">Sincronizzati %d video</item>
+        <item quantity="one">Sincronizzato %d video</item>
+    </plurals>
+    <plurals name="syncing_gprs_title_link">
+        <item quantity="other">Sincronizzazione di %d elementi utilizzando i dati</item>
+        <item quantity="one">Sincronizzazione di %d elemento utilizzando i dati</item>
+    </plurals>
+    <plurals name="syncing_title_link">
+        <item quantity="other">Sincronizzazione di %d elementi</item>
+        <item quantity="one">Sincronizzazione di %d elemento</item>
+    </plurals>
+    <plurals name="talkback_album_item_content">
+        <item quantity="other">%1$s, %2$s elementi</item>
+        <item quantity="one">%1$s, %2$s elemento</item>
+    </plurals>
+    <plurals name="title_age_hint_day">
+        <item quantity="other">%d giorni</item>
+        <item quantity="one">%d giorno</item>
+    </plurals>
+    <plurals name="title_age_hint_month">
+        <item quantity="other">%d mesi</item>
+        <item quantity="one">%d mese</item>
+    </plurals>
+    <plurals name="title_age_hint_year">
+        <item quantity="other">%d anni</item>
+        <item quantity="one">%d anno</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_cloud">
+        <item quantity="other">%d elementi selezionati verranno eliminati definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
+        <item quantity="one">%d elemento selezionato verrà eliminato definitivamente dal cloud e da tutti i dispositivi sincronizzati. Eliminare comunque?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_image">
+        <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
+        <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_local">
+        <item quantity="other">%d elementi selezionati verranno eliminati definitivamente. Eliminare comunque?</item>
+        <item quantity="one">%d elemento selezionato verrà eliminato definitivamente. Eliminare comunque?</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_media">
+        <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
+        <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
+    </plurals>
+    <plurals name="trash_purge_dialog_message_video">
+        <item quantity="other">"Non potrai ripristinare %d elementi selezionati se li elimini. Eliminare comunque?"</item>
+        <item quantity="one">"Non sarai in grado di ripristinare %d elemento selezionato se lo elimini. Eliminare comunque?"</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login">
+        <item quantity="other">Gli oggetti possono essere memorizzati qui per %1$d giorni (%2$s)</item>
+        <item quantity="one">Gli oggetti possono essere memorizzati qui per %1$d giorno (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_unlogin">
+        <item quantity="other">Gli oggetti possono essere memorizzati qui per %1$d giorni. Aggiorna il tuo piano per prolungare questo periodo.</item>
+        <item quantity="one">Gli oggetti possono essere memorizzati qui per %1$d giorno. Aggiorna il tuo piano per prolungare questo periodo.</item>
+    </plurals>
 </resources>
