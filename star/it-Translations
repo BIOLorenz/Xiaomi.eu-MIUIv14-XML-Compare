@@ -1,94 +1,111 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="animation_rate_entries">
-        <item>Rilassato</item>
-        <item>Bilanciato</item>
-        <item>Veloce</item>
-    </string-array>
-    <string-array name="cell_layout_size_entries">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="cell_layout_size_values">
-        <item>4x4</item>
-        <item>4x5</item>
-    </string-array>
-    <string-array name="drawer_alpha">
-        <item>0%</item>
-        <item>25%</item>
-        <item>50%</item>
-        <item>75%</item>
-        <item>100%</item>
-    </string-array>
-    <string-array name="editing_mode_entries">
-        <item>Sfondo</item>
-        <item>Widget</item>
-        <item>Impostazioni</item>
-    </string-array>
-    <string-array name="gadget_weather_image">
-        <item>Cancella</item>
-        <item>Nuvoloso</item>
-        <item>Nebbioso</item>
-        <item>Nebbioso</item>
-        <item>Forte pioggia</item>
-        <item>Temporale</item>
-        <item>Temporale</item>
-        <item>Forte temporale</item>
-        <item>Acquazzoni</item>
-        <item>Pioggia intensa</item>
-        <item>Pioggia</item>
-        <item>Pioggerella</item>
-        <item>Nevischio</item>
-        <item>Bufera di neve</item>
-        <item>Neve a tratti</item>
-        <item>Nevicata Intensa</item>
-        <item>Nevicata</item>
-        <item>Nevicata leggera</item>
-        <item>Forte tempesta di sabbia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Tempesta di sabbia leggera</item>
-        <item>Tempesta di sabbia</item>
-        <item>Grandine</item>
-        <item>Polveroso</item>
-        <item>Foschia</item>
-    </string-array>
-    <string-array name="gadget_weather_theme_type_entries">
-        <item>Predefinita</item>
-        <item>Classico</item>
-    </string-array>
-    <string-array name="icon_size">
-        <item>XS</item>
-        <item>S</item>
-        <item>M</item>
-        <item>L</item>
-        <item>XL</item>
-    </string-array>
-    <string-array name="monochrome_color_entries">
-        <item>Predefinita</item>
-        <item>Blu</item>
-        <item>Verde</item>
-        <item>Viola</item>
-        <item>Marrone</item>
-    </string-array>
-    <string-array name="transformation_entries">
-        <item>Classico 2</item>
-        <item>Dissolvenza</item>
-        <item>Inclinazione</item>
-        <item>Pagina</item>
-        <item>Cascata</item>
-        <item>Ruotare</item>
-        <item>Cubo</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_entries">
-        <item>Tema predefinito</item>
-        <item>Centro</item>
-        <item>Sinistra</item>
-        <item>Destra</item>
-    </string-array>
-    <string-array name="wallpaper_scroll_values">
-        <item>per Tema</item>
-        <item>centro</item>
-        <item>sinistra</item>
-        <item>destra</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="announce_for_drag">
+        <item quantity="other">spostamento di %1$d elementi</item>
+        <item quantity="one">spostamento</item>
+    </plurals>
+    <plurals name="announce_for_unread">
+        <item quantity="one">%2$s non letto da %1$s</item>
+        <item quantity="other">%2$s non letti da %1$s</item>
+    </plurals>
+    <plurals name="delete_wallpapers_message">
+        <item quantity="other">Eliminare %1$d sfondi?</item>
+        <item quantity="one">Eliminare %1$d sfondo?</item>
+    </plurals>
+    <plurals name="editing_mode_title">
+        <item quantity="other">%1$d selezionati</item>
+        <item quantity="one">%1$d selezionato</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="remove_dialog_title_multi_format">
+        <item quantity="other">Rimuovere %1$d app dalla schermata Home?</item>
+        <item quantity="one">Rimuovere %1$d app dalla schermata Home?</item>
+    </plurals>
+    <plurals name="scroll_tip_format_when_announce_accessibility">
+        <item quantity="other">pagina %1$d, %2$d app</item>
+        <item quantity="one">pagina %1$d, %2$d app</item>
+    </plurals>
+    <plurals name="uninstall_dialog_title_multi_format">
+        <item quantity="other">Disinstalla %1$d app?</item>
+        <item quantity="one">Disinstalla %1$d app?</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_failed">
+        <item quantity="other">"Impossibile disinstallare %1$d app"</item>
+        <item quantity="one">"Impossibile disinstallare %1$d app"</item>
+    </plurals>
+    <plurals name="uninstall_result_multi_succeeded">
+        <item quantity="other">%1$d app disinstallate</item>
+        <item quantity="one">%1$d app disinstallata</item>
+    </plurals>
 </resources>
