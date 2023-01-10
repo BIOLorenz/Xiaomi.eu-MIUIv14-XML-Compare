@@ -1,120 +1,135 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="aqi_detail_title">
-        <item>Normale</item>
-        <item>Moderato</item>
-        <item>Malsano per gruppi sensibili</item>
-        <item>Non salutare</item>
-        <item>Molto malsano</item>
-        <item>Rischiosa</item>
-    </string-array>
-    <string-array name="aqi_title_prefix">
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-        <item>AQI %1$s</item>
-    </string-array>
-    <string-array name="aqi_value">
-        <item>Normale</item>
-        <item>Soddisfacente</item>
-        <item>Moderatamente inquinato</item>
-        <item>Scarsa</item>
-        <item>Molto scarsa</item>
-        <item>Grave</item>
-        <item>Oltre l\'indice</item>
-    </string-array>
-    <string-array name="hot_city">
-        <item>Pechino</item>
-        <item>Shanghai</item>
-        <item>Hong Kong</item>
-        <item>Taipei</item>
-        <item>Giacarta</item>
-        <item>Delhi</item>
-        <item>Mumbai</item>
-        <item>Mosca</item>
-        <item>Chennai</item>
-        <item>Istanbul</item>
-        <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlino</item>
-        <item>Roma</item>
-        <item>New York</item>
-        <item>Los Angeles</item>
-        <item>Chicago</item>
-        <item>Tokyo</item>
-        <item>Parigi</item>
-        <item>Bangkok</item>
-        <item>Seoul</item>
-        <item>Kuala Lumpur</item>
-    </string-array>
-    <string-array name="minute_rain_array">
-        <item>Forte</item>
-        <item>Moderato</item>
-        <item>Leggero</item>
-    </string-array>
-    <string-array name="weather_type">
-        <item>Cancella</item>
-        <item>Nuvoloso</item>
-        <item>Coperto</item>
-        <item>Nebbioso</item>
-        <item>Forte temporale</item>
-        <item>Acquazzone</item>
-        <item>Temporale</item>
-        <item>Forte temporale</item>
-        <item>Pioggia</item>
-        <item>Pioggia intensa</item>
-        <item>Pioggia moderata</item>
-        <item>Pioggia leggera</item>
-        <item>Pioggia e neve</item>
-        <item>Tormenta di neve</item>
-        <item>Neve</item>
-        <item>Tormenta di neve</item>
-        <item>Nevicata moderata</item>
-        <item>Nevischio</item>
-        <item>Forte tempesta di sabbia</item>
-        <item>Tempesta di sabbia</item>
-        <item>Sabbia</item>
-        <item>Ventilato</item>
-        <item>Grandine</item>
-        <item>Polvere</item>
-        <item>Foschia</item>
-        <item>Pioggia gelata</item>
-        <item></item>
-    </string-array>
-    <string-array name="wind_direction">
-        <item>Nord</item>
-        <item>NordEst</item>
-        <item>Est</item>
-        <item>SudEst</item>
-        <item>Sud</item>
-        <item>SudOvest</item>
-        <item>Ovest</item>
-        <item>NordOvest</item>
-    </string-array>
-    <string-array name="wind_direction_simple">
-        <item>N</item>
-        <item>NO</item>
-        <item>E</item>
-        <item>S-E</item>
-        <item>S</item>
-        <item>SO</item>
-        <item>O</item>
-        <item>NO</item>
-    </string-array>
-    <string-array name="wind_unit_detail">
-        <item>Scala Beaufort</item>
-        <item>Chilometri orari (km/h)</item>
-        <item>Metri al secondo (m/s)</item>
-        <item>Miglia all\'ora (mph)</item>
-        <item>Nodi (kn)</item>
-    </string-array>
-    <string-array name="wind_unit_replace">
-        <item>Forza %1$s</item>
-        <item>%1$s km/h</item>
-        <item>%1$sm/s</item>
-        <item>%1$smph</item>
-        <item>%1$skn</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_day">
+        <item quantity="other">%d ore fa</item>
+        <item quantity="one">%d ora fa</item>
+    </plurals>
+    <plurals name="activity_main_update_time_in_one_hour">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">%d minuto fa</item>
+    </plurals>
+    <plurals name="activity_main_update_time_one_day_ago">
+        <item quantity="other">%d giorni fa</item>
+        <item quantity="one">%d giorno fa</item>
+    </plurals>
+    <plurals name="aqi_all_city_cur_num">
+        <item quantity="other">Media di %1$s stazioni</item>
+        <item quantity="one">Media di %1$s stazione</item>
+    </plurals>
+    <plurals name="daily_forcast_drawer_on_home">
+        <item quantity="other">Previsioni di %1$s giorni</item>
+        <item quantity="one">Previsione di %1$s giorno</item>
+    </plurals>
+    <plurals name="daily_forcast_drawer_on_top">
+        <item quantity="other">Previsioni di %1$s giorni</item>
+        <item quantity="one">Previsione di %1$s giorno</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_minute">
+        <item quantity="other">Potrai inviare un nuovo feedback tra %1$s minuti</item>
+        <item quantity="one">Potrai inviare un nuovo feedback tra %1$s minuto</item>
+    </plurals>
+    <plurals name="feedback_result_interval_time_too_short_second">
+        <item quantity="other">Potrai inviare un nuovo feedback tra %1$s secondi</item>
+        <item quantity="one">Potrai inviare un nuovo feedback tra %1$s secondo</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="no_vote_num">
+        <item quantity="other">%1$s persone | </item>
+        <item quantity="one">%1$s persona | </item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="total_voted_num_text">
+        <item quantity="other">"<font color="#20a7ff">%1$s</font> persone hanno votato"</item>
+        <item quantity="one">"<font color="#20a7ff">%1$s</font> persona ha votato"</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_centigrade">
+        <item quantity="other">Temperatura massima: %1$s gradi Celsius</item>
+        <item quantity="one">Temperatura massima: %1$s grado Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_high_fahrenheit">
+        <item quantity="other">Temperatura massima: %1$s gradi Fahrenheit</item>
+        <item quantity="one">Temperatura massima: %1$s grado Fahrenheit</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_centigrade">
+        <item quantity="other">Temperatura minima %1$s gradi Celsius</item>
+        <item quantity="one">Temperatura minima: %1$s grado Celsius</item>
+    </plurals>
+    <plurals name="tts_report_temperature_low_fahrenheit">
+        <item quantity="other">Temperatura minima: %1$s gradi Fahrenheit</item>
+        <item quantity="one">Temperatura minima: %1$s grado Fahrenheit</item>
+    </plurals>
+    <plurals name="view_realtime_clear">
+        <item quantity="other">Sereno</item>
+        <item quantity="one">Sereno</item>
+    </plurals>
+    <plurals name="yes_vote_num">
+        <item quantity="other"> | %1$s persone</item>
+        <item quantity="one"> | %1$s persona</item>
+    </plurals>
 </resources>
