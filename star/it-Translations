@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="close_app">Chiudi</string>
-    <string name="dropdown_menu">Menu a discesa</string>
-    <string name="in_progress">In corso</string>
-    <string name="navigation_menu">Menu di navigazione</string>
-    <string name="not_selected">Non selezionato</string>
-    <string name="off">Spenta</string>
-    <string name="on">Attivata</string>
-    <string name="selected">Selezionato</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tab">Tab</string>
-</resources>
+<strings> 
+    <string name="" value="EEE, dd MMMM"/>
+    <string name="" value="EEE, dd MMMM"/>
+    <string name="" value="EEEE, dd MMM"/>
+    <string name="" value="EEEE, dd MMM"/>
+    <string name="" value=""/>
+</strings>
