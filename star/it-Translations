@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Telefono/Memoria messaggi</string>
-    <string name="mms_provider_label">MMS</string>
-    <string name="mms_sms_provider_label">Messaggi</string>
-    <string name="siminfo_default_name">SIM %d</string>
-    <string name="sms_provider_label">SMS</string>
+    <string-array name="disable_package_replacement">
+        <item>disabilita nome pacchetto</item>
+    </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
 </resources>
