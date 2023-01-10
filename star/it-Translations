@@ -1,370 +1,463 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abc_action_bar_home_description">Vai alla Home</string>
-    <string name="abc_action_bar_up_description">Vai verso l\'alto</string>
-    <string name="abc_action_menu_overflow_description">Altre opzioni</string>
-    <string name="abc_action_mode_done">Fatto</string>
-    <string name="abc_activity_chooser_view_see_all">Mostra tutto</string>
-    <string name="abc_activitychooserview_choose_application">Scegli un\'app</string>
-    <string name="abc_capital_off">DISATTIVATO</string>
-    <string name="abc_capital_on">ATTIVATO</string>
-    <string name="abc_menu_delete_shortcut_label">elimina</string>
-    <string name="abc_menu_enter_shortcut_label">invio</string>
-    <string name="abc_menu_function_shortcut_label">Funzione+</string>
-    <string name="abc_menu_space_shortcut_label">Spazio</string>
-    <string name="abc_prepend_shortcut_label">Menù+</string>
-    <string name="abc_search_hint">Ricerca…</string>
-    <string name="abc_searchview_description_clear">Cancella campo</string>
-    <string name="abc_searchview_description_query">Cerca termine</string>
-    <string name="abc_searchview_description_search">Cerca</string>
-    <string name="abc_searchview_description_submit">Avvia ricerca</string>
-    <string name="abc_searchview_description_voice">Ricerca vocale</string>
-    <string name="abc_shareactionprovider_share_with">Condividi con</string>
-    <string name="abc_shareactionprovider_share_with_application">Condividi con %s</string>
-    <string name="abc_toolbar_collapse_description">Riduci</string>
-    <string name="actionbar_button_up_description">Indietro</string>
-    <string name="add_frequent_phrases">Aggiungi frase</string>
-    <string name="afternoon">Pomeriggio</string>
-    <string name="am">AM</string>
-    <string name="app_name">blur</string>
-    <string name="chinese_day_1">1</string>
-    <string name="chinese_day_10">10</string>
-    <string name="chinese_day_11">11</string>
-    <string name="chinese_day_12">12</string>
-    <string name="chinese_day_13">13</string>
-    <string name="chinese_day_14">14</string>
-    <string name="chinese_day_15">15</string>
-    <string name="chinese_day_16">16</string>
-    <string name="chinese_day_17">17</string>
-    <string name="chinese_day_18">18</string>
-    <string name="chinese_day_19">19</string>
-    <string name="chinese_day_2">2</string>
-    <string name="chinese_day_20">20</string>
-    <string name="chinese_day_21">21</string>
-    <string name="chinese_day_22">22</string>
-    <string name="chinese_day_23">23</string>
-    <string name="chinese_day_24">24</string>
-    <string name="chinese_day_25">25</string>
-    <string name="chinese_day_26">26</string>
-    <string name="chinese_day_27">27</string>
-    <string name="chinese_day_28">28</string>
-    <string name="chinese_day_29">29</string>
-    <string name="chinese_day_3">3</string>
-    <string name="chinese_day_30">30</string>
-    <string name="chinese_day_4">4</string>
-    <string name="chinese_day_5">5</string>
-    <string name="chinese_day_6">6</string>
-    <string name="chinese_day_7">7</string>
-    <string name="chinese_day_8">8</string>
-    <string name="chinese_day_9">9</string>
-    <string name="chinese_day_elementary">Primo</string>
-    <string name="chinese_digit_eight">8</string>
-    <string name="chinese_digit_five">5</string>
-    <string name="chinese_digit_four">4</string>
-    <string name="chinese_digit_nine">9</string>
-    <string name="chinese_digit_one">1</string>
-    <string name="chinese_digit_seven">7</string>
-    <string name="chinese_digit_six">6</string>
-    <string name="chinese_digit_ten">10</string>
-    <string name="chinese_digit_three">3</string>
-    <string name="chinese_digit_two">2</string>
-    <string name="chinese_digit_zero">0</string>
-    <string name="chinese_leap">Salto</string>
-    <string name="chinese_month">Mese</string>
-    <string name="chinese_month_april">4</string>
-    <string name="chinese_month_august">8</string>
-    <string name="chinese_month_december">12</string>
-    <string name="chinese_month_february">2</string>
-    <string name="chinese_month_january">1</string>
-    <string name="chinese_month_july">7</string>
-    <string name="chinese_month_june">6</string>
-    <string name="chinese_month_march">3</string>
-    <string name="chinese_month_may">5</string>
-    <string name="chinese_month_november">11</string>
-    <string name="chinese_month_october">10</string>
-    <string name="chinese_month_september">9</string>
-    <string name="chinese_symbol_animals_chicken">Pollo</string>
-    <string name="chinese_symbol_animals_cow">Mucca</string>
-    <string name="chinese_symbol_animals_dog">Cane</string>
-    <string name="chinese_symbol_animals_dragon">Drago</string>
-    <string name="chinese_symbol_animals_horse">Cavallo</string>
-    <string name="chinese_symbol_animals_monkey">Scimmia</string>
-    <string name="chinese_symbol_animals_mouse">Topo</string>
-    <string name="chinese_symbol_animals_pig">Maiale</string>
-    <string name="chinese_symbol_animals_rabbit">Coniglio</string>
-    <string name="chinese_symbol_animals_sheep">Pecora</string>
-    <string name="chinese_symbol_animals_snake">Serpente</string>
-    <string name="chinese_symbol_animals_tiger">Tigre</string>
-    <string name="clearable_edittext_clear_description">Cancella</string>
-    <string name="close">Chiudi</string>
-    <string name="date_picker_lunar">Calendario tradizionale Cinese</string>
-    <string name="date_time_picker_dialog_title">Imposta data e ora</string>
-    <string name="delete_frequent_phrases">Elimina frasi frequenti</string>
-    <string name="delete_frequent_phrases_confirm">Eliminare le frasi frequenti selezionate?</string>
-    <string name="early_morning">Mattina</string>
-    <string name="earthly_branches_chen">Chen</string>
-    <string name="earthly_branches_chou">Chou</string>
-    <string name="earthly_branches_hai">Hai</string>
-    <string name="earthly_branches_mao">Mao</string>
-    <string name="earthly_branches_shen">Shen</string>
-    <string name="earthly_branches_si">Si</string>
-    <string name="earthly_branches_wei">Wei</string>
-    <string name="earthly_branches_wu">Wu</string>
-    <string name="earthly_branches_xu">Xu</string>
-    <string name="earthly_branches_yin">Yin</string>
-    <string name="earthly_branches_you">You</string>
-    <string name="earthly_branches_zi">Zi</string>
-    <string name="edit_frequent_phrases">Modifica le frasi frequenti</string>
-    <string name="eras_ad">AC</string>
-    <string name="eras_bc">DC</string>
-    <string name="evening">Pomeriggio</string>
-    <string name="fmt_chinese_date">dd/MM</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM, yyyy</string>
-    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month_day">d/M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M/yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM, yyyy</string>
-    <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">z D T</string>
-    <string name="fmt_date_timezone">z D</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time_12hour">"hh"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_24hour">"HH"</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_minute_second">"m:s"</string>
-    <string name="fmt_time_minute_second_millis">"m:s.S"</string>
-    <string name="fmt_time_second_millis">"s.S"</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
-    <string name="frequent_phrases_des">Inserisci le frasi frequenti con pochi tocchi durante la modifica del testo</string>
-    <string name="frequent_phrases_size_exceeded">Puoi aggiungere fino a %1$d frasi frequenti. Elimina quelle inutili per aggiungerne altre.</string>
-    <string name="friday">Venerdì</string>
-    <string name="friday_short">Ven</string>
-    <string name="friday_shortest">Ven</string>
-    <string name="heavenly_stems_bing">Bing</string>
-    <string name="heavenly_stems_ding">Ding</string>
-    <string name="heavenly_stems_geng">Geng</string>
-    <string name="heavenly_stems_gui">Gui</string>
-    <string name="heavenly_stems_ji">Ji</string>
-    <string name="heavenly_stems_jia">Jia</string>
-    <string name="heavenly_stems_ren">Ren</string>
-    <string name="heavenly_stems_wu">Wu</string>
-    <string name="heavenly_stems_xin">Xin</string>
-    <string name="heavenly_stems_yi">Yi</string>
-    <string name="input_method_clipboard_add_to_phrase_success">Aggiunto alle frasi frequenti</string>
-    <string name="input_method_clipboard_check_more_add_to_phrase">Aggiungi frase frequente</string>
-    <string name="input_method_clipboard_check_more_copy">Copia</string>
-    <string name="input_method_clipboard_check_more_delete">Elimina</string>
-    <string name="input_method_clipboard_checkbox_cancle">Annulla</string>
-    <string name="input_method_clipboard_checkbox_confirm">Cancella</string>
-    <string name="input_method_clipboard_clear_all_button">Cancella tutto</string>
-    <string name="input_method_clipboard_clear_all_phrase_des">Cancellare tutti gli elementi dagli appunti?</string>
-    <string name="input_method_clipboard_clear_all_phrase_title">Cancellazione appunti</string>
-    <string name="input_method_clipboard_copy_success">Copiato con successo</string>
-    <string name="input_method_clipboard_delete_success">Rimozione completata</string>
-    <string name="input_method_clipboard_move_cursor_guide1">Tieni premuta l\'area blu per spostare il cursore</string>
-    <string name="input_method_clipboard_move_cursor_guide2">Muovi il dito orizzontalmente</string>
-    <string name="input_method_clipboard_participle">Separa le parole</string>
-    <string name="input_method_clipboard_settings_button">Impostazioni</string>
-    <string name="input_method_clipboard_tips">Gli elementi copiati verranno eliminati dagli appunti dopo 48 ore</string>
-    <string name="input_method_edit_phrase_text">Modifica le frasi frequenti</string>
-    <string name="input_method_function_clipboard">Appunti e frasi frequenti</string>
-    <string name="input_method_function_clipboard_des">Tocca per visualizzare i contenuti degli appunti e le frasi frequenti</string>
-    <string name="input_method_function_select_guide_title">Tieni premuto per altre opzioni</string>
-    <string name="input_method_function_select_left_view_title">Imposta funzione pulsante sinistro</string>
-    <string name="input_method_function_select_right_view_title">Imposta funzione pulsante destro</string>
-    <string name="input_method_function_switch">Passa da una tastiera ad un\'altra</string>
-    <string name="input_method_function_switch_des">Tocca per passare ad una tastiera diversa</string>
-    <string name="input_method_function_switch_keyboard_language">Cambia lingue</string>
-    <string name="input_method_function_switch_keyboard_language_des">Tocca per passare da una lingua all\'altra</string>
-    <string name="input_method_function_switch_keyboard_type">Cambia tastiera</string>
-    <string name="input_method_function_switch_keyboard_type_des">Tocca per passare da una tastiera all\'altra</string>
-    <string name="input_method_function_voice">Ingrsso vocale</string>
-    <string name="input_method_function_voice_des">Tocca per usare l\'ingresso vocale</string>
-    <string name="input_method_function_xiaoai">Ingresso vocale Mi IA</string>
-    <string name="input_method_function_xiaoai_des">Tocca per utilizzare l\'ingresso vocale Mi IA</string>
-    <string name="input_method_no_content_text">Nessun oggetto</string>
-    <string name="input_method_phrase_edit">Modifica</string>
-    <string name="input_method_phrase_top">Fissa</string>
-    <string name="input_method_switch_settings_text">Impostazioni tastiera</string>
-    <string name="input_method_tab_clipboard_text">Appunti</string>
-    <string name="input_method_tab_phrase_text">Frasi frequenti</string>
-    <string name="menu_add_frequent_phrases">Aggiungi</string>
-    <string name="menu_delete">Elimina</string>
-    <string name="menu_edit">Modifica</string>
-    <string name="midnight">Notte</string>
-    <string name="miuix_access_state_desc">Selezionato</string>
-    <string name="miuix_alphabet_indexer_name">Barra degli indici</string>
-    <string name="miuix_appcompat_action_mode_deselect_all">Deseleziona</string>
-    <string name="miuix_appcompat_action_mode_select_all">Seleziona tutto</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Seleziona elementi</string>
-    <string name="miuix_appcompat_actionbar_immersion_button_more_description">Altro</string>
-    <string name="miuix_appcompat_cancel_description">Annulla</string>
-    <string name="miuix_appcompat_confirm_description">Conferma</string>
-    <string name="miuix_appcompat_delete_description">Elimina</string>
-    <string name="miuix_appcompat_deselect_all">Deseleziona</string>
-    <string name="miuix_appcompat_deselect_all_description">Deseleziona tutto</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">Annulla</string>
-    <string name="miuix_appcompat_search_input_description">Cerca</string>
-    <string name="miuix_appcompat_select_all">Seleziona tutto</string>
-    <string name="miuix_appcompat_select_all_description">Seleziona tutto</string>
-    <string name="miuix_appcompat_select_item">Seleziona elementi</string>
-    <string name="miuix_indexer_collect">Raccolte</string>
-    <string name="miuix_indexer_selected">Selezionato %s</string>
-    <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Tira in giù per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshed">Aggiornato</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Aggiornamento…</string>
-    <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Lascia per aggiornare</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_nodata">"È tutto per ora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_none">"È tutto per ora"</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Attendi…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">"Impossibile caricare gli elementi"</string>
-    <string name="monday">Lunedì</string>
-    <string name="monday_short">Lun</string>
-    <string name="monday_shortest">Lun</string>
-    <string name="month_april">Aprile</string>
-    <string name="month_april_short">Apr</string>
-    <string name="month_april_shortest">Apr</string>
-    <string name="month_august">Agosto</string>
-    <string name="month_august_short">Ago</string>
-    <string name="month_august_shortest">Ago</string>
-    <string name="month_december">Dicembre</string>
-    <string name="month_december_short">Dic</string>
-    <string name="month_december_shortest">Dic</string>
-    <string name="month_february">Febbraio</string>
-    <string name="month_february_short">Feb</string>
-    <string name="month_february_shortest">Feb</string>
-    <string name="month_january">Gennaio</string>
-    <string name="month_january_short">Gen</string>
-    <string name="month_january_shortest">Gen</string>
-    <string name="month_july">Luglio</string>
-    <string name="month_july_short">Lug</string>
-    <string name="month_july_shortest">Lug</string>
-    <string name="month_june">Giugno</string>
-    <string name="month_june_short">Giu</string>
-    <string name="month_june_shortest">Giu</string>
-    <string name="month_march">Marzo</string>
-    <string name="month_march_short">Mar</string>
-    <string name="month_march_shortest">Mar</string>
-    <string name="month_may">Maggio</string>
-    <string name="month_may_short">Maggio</string>
-    <string name="month_may_shortest">Maggio</string>
-    <string name="month_november">Novembre</string>
-    <string name="month_november_short">Nov</string>
-    <string name="month_november_shortest">Nov</string>
-    <string name="month_october">Ottobre</string>
-    <string name="month_october_short">Ott</string>
-    <string name="month_october_shortest">Ott</string>
-    <string name="month_september">Settembre</string>
-    <string name="month_september_short">Set</string>
-    <string name="month_september_shortest">Set</string>
-    <string name="more">Altro</string>
-    <string name="morning">Mattina</string>
-    <string name="night">Sera</string>
-    <string name="noon">Mezzogiorno</string>
-    <string name="pm">PM</string>
-    <string name="saturday">Sabato</string>
-    <string name="saturday_short">Sab</string>
-    <string name="saturday_shortest">Sab</string>
-    <string name="search_menu_title">Cerca</string>
-    <string name="send">Invia</string>
-    <string name="solar_term_autumn_begins">Inizia l\'autunno</string>
-    <string name="solar_term_autumn_equinox">Equinozio d\'autunno</string>
-    <string name="solar_term_clear_and_bright">Chiaro e luminoso</string>
-    <string name="solar_term_cold_dews">Rugiada fredda</string>
-    <string name="solar_term_grain_buds">Culturismo di creature</string>
-    <string name="solar_term_grain_in_ear">Coltivazione di riso</string>
-    <string name="solar_term_grain_rain">Pioggia di grano</string>
-    <string name="solar_term_great_cold">Grande freddo</string>
-    <string name="solar_term_great_heat">Il grande inferno</string>
-    <string name="solar_term_heavy_snow">Tormenta di neve</string>
-    <string name="solar_term_hoar_frost_falls">Gelo</string>
-    <string name="solar_term_insects_awaken">Risveglio degli insetti</string>
-    <string name="solar_term_light_snow">Nevischio</string>
-    <string name="solar_term_slight_cold">Freddino</string>
-    <string name="solar_term_slight_heat">Moderatamente Caldo</string>
-    <string name="solar_term_spring_begins">Arriva la primavera</string>
-    <string name="solar_term_stopping_the_heat">Ritirata del caldo</string>
-    <string name="solar_term_summer_begins">Inizia l\'estate</string>
-    <string name="solar_term_summer_solstice">Solstizio d\'estate</string>
-    <string name="solar_term_the_rains">Rovesci primaverili</string>
-    <string name="solar_term_vernal_equinox">Equinozio di primavera</string>
-    <string name="solar_term_white_dews">Rugiada</string>
-    <string name="solar_term_winter_begins">L\'inverno è arrivato</string>
-    <string name="solar_term_winter_solstice">Solstizio d\'inverno</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="sunday">Domenica</string>
-    <string name="sunday_short">Dom</string>
-    <string name="sunday_shortest">Dom</string>
-    <string name="sync_phrase_label">Frasi frequenti</string>
-    <string name="the_anniversary_of_lifting_martial_law">Anniversario dell\'abolizione della legge marziale</string>
-    <string name="the_anti_aggression_day">Giornata della pace</string>
-    <string name="the_arbor_day">Giorno dei mestieri</string>
-    <string name="the_armed_forces_day">Giornata delle forze armate</string>
-    <string name="the_armys_day">Giornata PLA</string>
-    <string name="the_childrens_day">"Giornata dei bambini"</string>
-    <string name="the_chinese_youth_day">Giornata della gioventù</string>
-    <string name="the_christmas_day">Natale</string>
-    <string name="the_double_ninth_festival">Festa del Doppio Nove</string>
-    <string name="the_dragon_boat_festival">Festa delle Dragonboat</string>
-    <string name="the_easter_day">Pasqua</string>
-    <string name="the_eve_of_the_spring_festival">Vigilia del Nuovo Anno Cinese</string>
-    <string name="the_fifth_day">Quinto giorno del Capodanno Cinese</string>
-    <string name="the_fools_day">"Pesce d'Aprile"</string>
-    <string name="the_forth_day">Quarto giorno del Capodanno Cinese</string>
-    <string name="the_hksar_establishment_day">Giorno dell\'istituzione della SAR di Hong Kong</string>
-    <string name="the_international_womens_day">"Festa delle donne"</string>
-    <string name="the_laba_festival">Festival di Laba</string>
-    <string name="the_labour_day">Festa del lavoro</string>
-    <string name="the_lantern_festival">Festival della Lanterna</string>
-    <string name="the_mid_autumn_festival">Festival di metà autunno</string>
-    <string name="the_national_day">Giornata Nazionale</string>
-    <string name="the_national_father_day">"Compleanno di Sun Yat-sen"</string>
-    <string name="the_new_years_day">Anno nuovo</string>
-    <string name="the_night_of_sevens">Festival di Qixi</string>
-    <string name="the_partys_day">Giorno della CPC</string>
-    <string name="the_peace_day">Giorno della memoria</string>
-    <string name="the_retrocession_day">Giorno della retrocessione</string>
-    <string name="the_second_day">Secondo giorno del Capodanno Cinese</string>
-    <string name="the_seventh_day">Settimo giorno del Capodanno Cinese</string>
-    <string name="the_sixth_day">Sesto giorno del Capodanno Cinese</string>
-    <string name="the_spirit_festival">Festa degli spiriti</string>
-    <string name="the_spring_festival">Capodanno Cinese</string>
-    <string name="the_teachers_day">"Giornata degli insegnanti"</string>
-    <string name="the_third_day">Terzo giorno del Capodanno Cinese</string>
-    <string name="the_tw_childrens_day">"Giornata dei bambini"</string>
-    <string name="the_tw_youth_day">Giornata della gioventù</string>
-    <string name="the_united_nations_day">Festa unità nazionale</string>
-    <string name="the_valentines_day">"San Valentino"</string>
-    <string name="the_water_lantern_festival">Festa delle Lanterne d\'Acqua</string>
-    <string name="thursday">Giovedì</string>
-    <string name="thursday_short">Gio</string>
-    <string name="thursday_shortest">Gio</string>
-    <string name="time_picker_dialog_title">Imposta ora</string>
-    <string name="today">Oggi</string>
-    <string name="tomorrow">domani</string>
-    <string name="tuesday">Martedì</string>
-    <string name="tuesday_short">Mar</string>
-    <string name="tuesday_shortest">Mar</string>
-    <string name="wednesday">Mercoledì</string>
-    <string name="wednesday_short">Mer</string>
-    <string name="wednesday_shortest">Mer</string>
-    <string name="yesterday">Ieri</string>
+    <string-array name="acc_category_color_description">
+        <item>Bianco</item>
+        <item>Blu scuro</item>
+        <item>Azzurro chiaro</item>
+        <item>Rosso</item>
+        <item>Verde</item>
+        <item>Rosa</item>
+        <item>Marrone</item>
+        <item>Grigio</item>
+    </string-array>
+    <string-array name="acc_magic_matting_background_description">
+        <item>Seleziona un\'immagine</item>
+        <item>Sfondo trasparente</item>
+    </string-array>
+    <string-array name="account_user_gender_name">
+        <item>Maschio</item>
+        <item>Femmina</item>
+    </string-array>
+    <string-array name="activities_title">
+        <item>Giorno speciale</item>
+        <item>Giorno da ricordare</item>
+        <item>Momenti vivaci</item>
+    </string-array>
+    <string-array name="annual_foods_title">
+        <item>Un anno fantastico</item>
+        <item>Tre portate. Quattro stagioni.</item>
+    </string-array>
+    <string-array name="annual_travel_title">
+        <item>Ciao mondo!</item>
+        <item>In viaggio</item>
+        <item>Un caleidoscopio di luoghi</item>
+    </string-array>
+    <string-array name="autumn_season_title">
+        <item>Splendore autunnale</item>
+        <item>Autunno Radioso</item>
+    </string-array>
+    <string-array name="baby_sexy">
+        <item>Ragazzo</item>
+        <item>Ragazza</item>
+    </string-array>
+    <string-array name="backup_automatically_key_words">
+        <item>Backup delle foto</item>
+        <item>Sincronizza le foto con il cloud</item>
+    </string-array>
+    <string-array name="card_last_week_day">
+        <item>Lunedì scorso</item>
+        <item>Martedì scorso</item>
+        <item>Mercoledì scorso</item>
+        <item>Giovedì scorso</item>
+        <item>Venerdì scorso</item>
+    </string-array>
+    <string-array name="chinese_holiday_last_year">
+        <item>"Ultimo Capodanno Cinese"</item>
+        <item>Ultimo Capodanno Cinese</item>
+        <item>Ultimo Festival Della Lanterna</item>
+        <item>Ultimo Festival delle Barche Drago</item>
+        <item>Ultimo Festival di Qixi</item>
+        <item>Ultimo Festival di Metà Autunno</item>
+    </string-array>
+    <string-array name="chinese_holiday_past_year">
+        <item>"Capodanno Cinese negli anni"</item>
+        <item>Capodanno Cinese negli anni</item>
+        <item>Festival delle Lanterne negli anni</item>
+        <item>Festival delle barche del drago negli anni</item>
+        <item>Festival Qixi negli anni</item>
+        <item>Festival di Metà Autunno negli anni</item>
+    </string-array>
+    <string-array name="chinese_new_year_eve_title">
+        <item>Una serata da ricordare</item>
+        <item>Nuova pagina</item>
+        <item>Fuochi d\'artificio</item>
+    </string-array>
+    <string-array name="chinese_new_year_title">
+        <item>Buon Anno Nuovo!</item>
+        <item>Alba del nuovo anno</item>
+    </string-array>
+    <string-array name="chinese_zodiac_year">
+        <item>Anno della Scimmia</item>
+        <item>Anno del Gallo</item>
+        <item>Anno del Cane</item>
+        <item>Anno del Maiale</item>
+        <item>Anno del Topo</item>
+        <item>Anno del Bue</item>
+        <item>Anno della Tigre</item>
+        <item>Anno del Coniglio</item>
+        <item>Anno del Drago</item>
+        <item>Anno del Serpente</item>
+        <item>Anno del Cavallo</item>
+        <item>Anno della Capra</item>
+    </string-array>
+    <string-array name="city_title">
+        <item>Paesaggi Urbani</item>
+        <item>Strade ed angoli</item>
+    </string-array>
+    <string-array name="flowers_title">
+        <item>Petali delicati</item>
+        <item>In piena fioritura</item>
+    </string-array>
+    <string-array name="forest_title">
+        <item>Nella natura selvaggia</item>
+        <item>Selvaggio e libero</item>
+    </string-array>
+    <string-array name="group_people_title">
+        <item>I nostri ritrovi</item>
+        <item>In compagnia degli amici</item>
+        <item>Non vedi da molto tempo</item>
+    </string-array>
+    <string-array name="holiday_last_year">
+        <item>"Il Capodanno precedente"</item>
+        <item>"Lo scorso San Valentino"</item>
+        <item>La scorsa giornata del lavoro</item>
+        <item>"La scorsa giornata dei bambini"</item>
+        <item>La scorsa Festa nazionale</item>
+        <item>Lo scorso Natale</item>
+    </string-array>
+    <string-array name="holiday_past_year">
+        <item>"Capodanno negli anni"</item>
+        <item>"San Valentino negli anni"</item>
+        <item>Giornata del lavoro negli anni</item>
+        <item>"Giornata dei bambini negli anni"</item>
+        <item>Festa nazionale negli anni</item>
+        <item>Natale negli anni</item>
+    </string-array>
+    <string-array name="important_people_title">
+        <item>I tuoi soggetti preferiti</item>
+        <item>Spiriti gentili</item>
+        <item>"I momenti brillanti della vita"</item>
+    </string-array>
+    <string-array name="last_month">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="last_some_day_babies_title">
+        <item>Impegnato a crescere</item>
+        <item>Sempre più carini</item>
+        <item>Piccolo esploratore</item>
+    </string-array>
+    <string-array name="last_some_day_fit_title">
+        <item>Diario di fitness</item>
+        <item>Ancora più forte!</item>
+    </string-array>
+    <string-array name="last_some_day_foods_title">
+        <item>Buon appetito!</item>
+        <item>Un altro morso?</item>
+        <item>Goditi il pasto!</item>
+    </string-array>
+    <string-array name="last_some_day_playground_title">
+        <item>Sorridi e saluta!</item>
+        <item>Tempo di gioco</item>
+    </string-array>
+    <string-array name="last_some_day_ski_title">
+        <item>Momenti all\'aperto</item>
+        <item>Tracce sulla neve</item>
+    </string-array>
+    <string-array name="last_some_day_sports_title">
+        <item>Inarrestabile</item>
+        <item>Rimanere in forma</item>
+    </string-array>
+    <string-array name="last_some_day_wedding_title">
+        <item>Un grande giorno</item>
+        <item>Lungo il corridoio!</item>
+    </string-array>
+    <string-array name="last_week_baby_title">
+        <item>È ora di giocare</item>
+        <item>"Weekend dei bambini"</item>
+        <item>Il piccolino</item>
+    </string-array>
+    <string-array name="last_weekend_title">
+        <item>I miei weekend</item>
+        <item>Scorci di vita</item>
+        <item>Ricordi dei weekend</item>
+    </string-array>
+    <string-array name="last_year_group_people">
+        <item>Nuovi amici e vecchie conoscenze</item>
+        <item>"Riunificazione dell'anno scorso"</item>
+    </string-array>
+    <string-array name="magic_effects_audio_titles">
+        <item></item>
+        <item></item>
+        <item>Piacere</item>
+        <item>Brezza</item>
+        <item>Sogni</item>
+        <item>Nuvole</item>
+        <item>Pensieri</item>
+        <item>Scheletri</item>
+        <item>Metamorfosi</item>
+        <item>Profondità</item>
+        <item>Riflessi</item>
+        <item>Minimalista</item>
+        <item>Mistero</item>
+        <item>Nebbia</item>
+    </string-array>
+    <string-array name="magic_effects_description">
+        <item>Trasforma gli sfondi in dipinti</item>
+        <item>Sfondi in stile acquerello</item>
+        <item>Cyberpunk retro</item>
+        <item>Segmenti verticali non allineati</item>
+        <item>Sfocatura nebbiosa</item>
+        <item>Sensazione futuristica</item>
+    </string-array>
+    <string-array name="magic_effects_title">
+        <item>Fumetto</item>
+        <item>Acquarello</item>
+        <item>RGB</item>
+        <item>Oscuro</item>
+        <item>Finestra nebbiosa</item>
+        <item>Tech</item>
+    </string-array>
+    <string-array name="magic_effects_video_titles">
+        <item></item>
+        <item>Bordo colorato</item>
+        <item>Bordo tratteggiato</item>
+        <item>Bordo fluorescente</item>
+        <item>Ombra colorata</item>
+        <item>Onda elettrica</item>
+        <item>Attuale</item>
+        <item>Onde</item>
+        <item>Particelle</item>
+        <item>Testo</item>
+        <item>Ali</item>
+        <item>Angelo</item>
+    </string-array>
+    <string-array name="magic_idp_size_category">
+        <item>Generale</item>
+        <item>Viaggi</item>
+        <item>Lavoro</item>
+        <item>Documenti</item>
+        <item>Educazione</item>
+        <item>Esami</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_certificates">
+        <item>Sicurezza sociale</item>
+        <item>Dichiarazione sulla salute</item>
+        <item>Assicurazione medica</item>
+        <item>ID</item>
+        <item>Permesso di soggiorno</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_common">
+        <item></item>
+        <item>One cun</item>
+        <item>Teo cuns</item>
+        <item>Smaller one cun</item>
+        <item>Smaller two cuns</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_education">
+        <item>Applicazione di ammissione</item>
+        <item>Rete di studenti</item>
+        <item>Rete di studenti per scuole elementari</item>
+        <item>Profilo di rete degli studenti</item>
+        <item>Iscrizione universitaria</item>
+        <item>NCEE</item>
+        <item>Riprendi</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_examination">
+        <item>Test di Inglese del College 1</item>
+        <item>Test di Inglese del College 2</item>
+        <item>Test di Inglese del College 3</item>
+        <item>Test Di Competenza Putonghua 1</item>
+        <item>Test Di Competenza Putonghua 2</item>
+        <item>Test di Laurea in Inglese</item>
+        <item>PET per università</item>
+        <item>PET Livello 3</item>
+        <item>Esame Nazionale Rango Informatico 1</item>
+        <item>Esame Nazionale Rango Informatico 2</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_profession">
+        <item>Certificazione insegnante della scuola primaria e secondaria</item>
+        <item>Certificazione insegnante</item>
+        <item>"Patente di guida"</item>
+        <item>Permesso di guida</item>
+        <item>Autorizzazione di guida elettronica</item>
+        <item>Esame giuridico nazionale</item>
+        <item>Certificato elettronico di prima classe</item>
+        <item>Certificato costruttore di seconda categoria</item>
+        <item>Esame contabile Junior</item>
+        <item>Responsabile pubblico certificato</item>
+        <item>Permesso guida Pechino</item>
+        <item>Esame intermedio contabile</item>
+        <item>Esame contabile superiore</item>
+        <item>Certificato di qualifica contabile</item>
+        <item>Esame contabile pubblico certificato</item>
+    </string-array>
+    <string-array name="magic_idp_size_category_visa">
+        <item>Stati Uniti</item>
+        <item>Vietnam</item>
+        <item>Giappone</item>
+        <item>Hong Kong e Macao</item>
+        <item>Corea Del Sud</item>
+        <item>Thailandia (turista)</item>
+        <item>Thailandia (all\'arrivo)</item>
+        <item>India</item>
+        <item>Israele</item>
+        <item>Tailandia</item>
+        <item>Malesia</item>
+        <item>Nuova Zelanda</item>
+        <item>Italia</item>
+        <item>Argentina</item>
+        <item>Brasile</item>
+        <item>Islanda</item>
+        <item>Kenya</item>
+    </string-array>
+    <string-array name="magic_system_model">
+        <item>Mi 10</item>
+        <item>Mi 10 Pro</item>
+        <item>Mi 11</item>
+        <item>Mi 11 Pro</item>
+    </string-array>
+    <string-array name="menu_copy_or_move">
+        <item>Sposta</item>
+        <item>Copia</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="month">
+        <item>Gennaio</item>
+        <item>Febbraio</item>
+        <item>Marzo</item>
+        <item>Aprile</item>
+        <item>Maggio</item>
+        <item>Giugno</item>
+        <item>Luglio</item>
+        <item>Agosto</item>
+        <item>Settembre</item>
+        <item>Ottobre</item>
+        <item>Novembre</item>
+        <item>Dicembre</item>
+    </string-array>
+    <string-array name="month_last_year">
+        <item>Lo scorso Gennaio</item>
+        <item>Lo scorso Febbraio</item>
+        <item>Lo scorso Marzo</item>
+        <item>Lo scorso Aprile</item>
+        <item>Lo scorso Maggio</item>
+        <item>Lo scorso Giugno</item>
+        <item>Lo scorso Luglio</item>
+        <item>Lo scorso Agosto</item>
+        <item>Lo scorso Settembre</item>
+        <item>Lo scorso Ottobre</item>
+        <item>Lo scorso Novembre</item>
+        <item>Lo scorso Dicembre</item>
+    </string-array>
+    <string-array name="monthly_babies_title">
+        <item>"Sei cresciuto!"</item>
+        <item>"Sei cresciuto di nuovo!"</item>
+    </string-array>
+    <string-array name="monthly_foods_title">
+        <item>Il mio menù personale</item>
+        <item>Ricordi saporiti</item>
+        <item>Seconda assistenza, per favore!</item>
+    </string-array>
+    <string-array name="mountain_title">
+        <item>"I migliori panorami del mondo"</item>
+        <item>Continua a scalare</item>
+    </string-array>
+    <string-array name="owner_relation">
+        <item>Padre</item>
+        <item>Madre</item>
+        <item>Nonno paterno</item>
+        <item>Nonna paterna</item>
+        <item>Nonno materno</item>
+        <item>Nonna materna</item>
+    </string-array>
+    <string-array name="parties_title">
+        <item>Insieme</item>
+        <item>Bei momenti</item>
+        <item>All\'unisono</item>
+    </string-array>
+    <string-array name="people_travel_title">
+        <item>Dove la strada ci conduce</item>
+        <item>Viaggi ben condivisi</item>
+    </string-array>
+    <string-array name="quarterly_babies_title">
+        <item>Primavera allegra</item>
+        <item>Un\'estate gioiosa</item>
+        <item>Un buon autunno</item>
+        <item>Un inverno divertente</item>
+    </string-array>
+    <string-array name="quarterly_foods_title">
+        <item>Pasti primaverili</item>
+        <item>Momenti estivi</item>
+        <item>Feste autunnali</item>
+        <item>Rimbocchi invernali</item>
+    </string-array>
+    <string-array name="recent_group_people">
+        <item>Insieme</item>
+        <item>Obbligazioni e legami</item>
+    </string-array>
+    <string-array name="relation_with_me">
+        <item>Io</item>
+        <item>Figlio</item>
+        <item>Famiglia</item>
+        <item>Colleghi</item>
+        <item>Compagni di classe</item>
+        <item>Amici</item>
+        <item>Non raggruppato</item>
+    </string-array>
+    <string-array name="season">
+        <item>Primavera</item>
+        <item>Estate</item>
+        <item>Autunno</item>
+        <item>Inverno</item>
+    </string-array>
+    <string-array name="season_last_year">
+        <item>La scorsa Primavera</item>
+        <item>La scorsa Estate</item>
+        <item>Lo scorso Autunno</item>
+        <item>Lo scorso Inverno</item>
+    </string-array>
+    <string-array name="sharer_relation_addressive">
+        <item>Padre</item>
+        <item>Madre</item>
+        <item>Nonno paterno</item>
+        <item>Nonna paterna</item>
+        <item>Nonno materno</item>
+        <item>Nonna materna</item>
+    </string-array>
+    <string-array name="spinner_list">
+        <item>px</item>
+        <item>mm</item>
+    </string-array>
+    <string-array name="sports_title">
+        <item>Andare avanti</item>
+        <item>Pieno di energia</item>
+    </string-array>
+    <string-array name="spring_season_title">
+        <item>Fioriture di primavera</item>
+        <item>La primavera è nell\'aria</item>
+        <item>Buongiorno primavera!</item>
+    </string-array>
+    <string-array name="summer_season_title">
+        <item>Un po\' d\'estate</item>
+        <item>Dove l\'estate non finisce mai</item>
+    </string-array>
+    <string-array name="sunrise_sunset_title">
+        <item>Momenti d\'oro</item>
+        <item>Raggi d\'oro</item>
+    </string-array>
+    <string-array name="three_month_baby_title">
+        <item>Crescono così velocemente</item>
+        <item>"Foto dei bambini"</item>
+    </string-array>
+    <string-array name="weekend_title">
+        <item>Ultimi weekend</item>
+        <item>Giorni da ricordare</item>
+        <item>Eventi giornalieri</item>
+        <item>Ordinario e Straordinario</item>
+    </string-array>
+    <string-array name="winter_season_title">
+        <item>Giornate invernali</item>
+        <item>Meraviglie invernali</item>
+    </string-array>
 </resources>
