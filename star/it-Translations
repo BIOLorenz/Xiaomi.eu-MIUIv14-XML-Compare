@@ -1,60 +1,83 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>Nov</item>
-        <item>0</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>D</item>
-        <item>G</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="hide_fingerprint_instantly_prefixes">
-        <item>SM-G97</item>
-        <item>SC-03L</item>
-        <item>SC-04L</item>
-        <item>SC-05L</item>
-        <item>SCV41</item>
-        <item>SCV42</item>
-        <item>SM-N97</item>
-        <item>SC-01M</item>
-        <item>SCV45</item>
-    </string-array>
-    <string-array name="settings_search_mirror">
-        <item>Dispositivi connessi</item>
-        <item>Connessione &amp; condivisione/Dispositivi collegati</item>
-        <item>MIUI+, MIUIPLUS, handoff, multiscreen, interconnettività, schermo mirroring, mouse e tastiera, estensione schermo, app handoff, Mi Smart Hub, mirror, estensione, multitask, condivisione, mouse, tastiera, connetti dispositivi</item>
-    </string-array>
-    <string-array name="settings_tips_message">
-        <item>"1. Disattiva l'hotspot portatile, Mi Share, o la Proiezione sul tuo dispositivo mobile prima di utilizzare questa funzionalità.
-2. Disattiva il Wi-Fi sia sul tuo dispositivo mobile che sul computer.
-3. Assicurati che il tuo dispositivo mobile sia vicino al tuo computer. Non sarai in grado di connettere i dispositivi se si trovano in luoghi diversi."</item>
-        <item>Il tuo computer utilizza il Bluetooth per rilevare i dispositivi nelle vicinanze che sono stati precedentemente collegati. Controlla se il Bluetooth è acceso sul tuo dispositivo.</item>
-        <item>"I dispositivi mobili non possono sincronizzare i dati con i computer quando lo schermo è bloccato. Per impostazione predefinita, questa app non consente di bloccare lo schermo quando il dispositivo mobile è collegato a un computer. È possibile modificare questa impostazione nelle impostazioni."</item>
-        <item>"1. Dispositivi compatibili Mi 11, Mi 10 Ultra, Mi 10 Pro, Mi 10, Mi 9 Pro 5G, Mi 9, Redmi K30S Ultra, Redmi K20 Pro, Redmi K30 Pro. Se dopo la scansione del codice QR vieni reindirizzato al nostro sito ufficiale, il tuo dispositivo non è ancora supportato.
-2. Computer compatibili: Mi Air Pro 15, Mi Air Pro 15.6, Redmi G Gaming Laptop, RedmiBook 16, RedmiBook 14 II, RedmiBook Air 3. Scarica MIUI+ Beta sul tuo computer qui: https://plus.miui.com."</item>
-    </string-array>
-    <string-array name="settings_tips_title">
-        <item>"Impossibile connettersi con il codice QR?"</item>
-        <item>"Non riesci a trovare dispositivi utilizzando il computer?"</item>
-        <item>"Non riesci a bloccare il dispositivo mobile?"</item>
-        <item>Compatibilità</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="download_canceled_title_multi">
+        <item quantity="other">Rifiutati %2$d file, incluso %1$s</item>
+        <item quantity="one">Rifiutato %2$d file, incluso %1$s</item>
+    </plurals>
+    <plurals name="download_succeeded_title_multi">
+        <item quantity="other">Ricevuti %2$d file, incluso %1$s</item>
+        <item quantity="one">Ricevuto %2$d file, incluso %1$s</item>
+    </plurals>
+    <plurals name="download_title_multi">
+        <item quantity="other">%2$d file, incluso %1$s</item>
+        <item quantity="one">%2$d file, incluso %1$s</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
 </resources>
