@@ -1,18 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="action_call">Chiama %s</string>
-    <string name="action_text">SMS a %s</string>
-    <string name="app_name">Tag</string>
-    <string name="button_done">Fatto</string>
-    <string name="call_phone_permission_denied">Questa applicazione deve accedere ai permessi del Telefono per effettuare chiamate. Puoi gestire i tag dei permessi nelle Impostazioni</string>
-    <string name="empty_tag_prompt">Questo tag è vuoto.</string>
-    <string name="external_storage_permission_denied">\"Questa applicazione deve accedere ai permessi dell\'rchivio esterno per poter accedere ai file.  gestire i tag dei permessi nelle Impostazioni</string>
-    <string name="import_vcard">Importa ^1</string>
-    <string name="mime_display_name">Dati da tag NFC</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="tag_empty">Tag vuoto</string>
-    <string name="tag_unknown">Tipo di tag sconosciuto</string>
-    <string name="title_existing_tag">Tag</string>
-    <string name="title_scanned_tag">Nuovo tag raccolto</string>
-    <string name="vcard_title">Informazioni contatto per ^1</string>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
 </resources>
