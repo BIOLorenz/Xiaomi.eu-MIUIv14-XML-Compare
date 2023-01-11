@@ -1,68 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="deepclean_lock_screen_white_list">
-        <item>com.android.launcher3</item>
-        <item>com.kugou.android</item>
-        <item>com.tencent.qqmusic</item>
-        <item>com.sds.android.ttpod</item>
-        <item>cn.kuwo.player</item>
-        <item>com.ting.mp3.android</item>
-        <item>com.duomi.android</item>
-        <item>fm.xiami.main</item>
-        <item>cmccwm.mobilemusic</item>
-        <item>fm.qingting.qtradio</item>
-        <item>com.yinyuetai.ui</item>
-        <item>com.netease.cloudmusic</item>
-        <item>com.yibasan.lizhifm</item>
-        <item>com.douban.radio</item>
-        <item>bubei.tingshu</item>
-        <item>com.ximalaya.ting.android</item>
-        <item>com.ophone.reader.ui</item>
-        <item>cn.kuwo.tingshu</item>
-        <item>com.baidu.BaiduMap</item>
-        <item>com.autonavi.minimap</item>
-        <item>com.tencent.map</item>
-        <item>com.autonavi.cmccmap</item>
-        <item>com.autonavi.xmgd.navigator</item>
-        <item>com.baidu.BaiduMap.pad</item>
-        <item>com.baidu.navi</item>
-        <item>com.uu.uunavi</item>
-        <item>com.google.android.apps.maps</item>
-        <item>com.sogou.map.android.maps</item>
-        <item>com.lltskb.lltskb</item>
-        <item>cld.navi.mainframe</item>
-    </string-array>
-    <string-array name="deepclean_normal_white_list">
-        <item>com.android.launcher3</item>
-        <item>com.android.systemui</item>
-        <item>android</item>
-        <item>com.miui.whetstone</item>
-        <item>com.android.phone</item>
-        <item>com.miui.bugreport</item>
-        <item>com.android.keyguard</item>
-        <item>com.miui.powerkeeper</item>
-        <item>com.google.android.music</item>
-        <item>com.android.bluetooth</item>
-        <item>com.miui.networkassistant</item>
-        <item>com.android.updater</item>
-        <item>com.android.providers.contacts</item>
-    </string-array>
-    <string-array name="disable_trim_apps">
-        <item>android</item>
-        <item>com.android.launcher3</item>
-    </string-array>
-    <string-array name="sleepclean_system_forcestop_list">
-        <item>com.android.gallery3d</item>
-        <item>com.android.email</item>
-    </string-array>
-    <string-array name="sleepclean_white_list">
-        <item>android</item>
-        <item>com.android.systemui</item>
-        <item>com.miui.miwallpaper</item>
-        <item>com.android.mms</item>
-        <item>com.android.launcher3</item>
-        <item>com.miui.touchassistant</item>
-        <item>com.google.android.marvin.talkback</item>
-        <item>com.miui.powerkeeper</item>
-    </string-array>
+    <string name="action_settings">Impostazioni</string>
+    <string name="activity_title_fakecell">Protezione da celle fasulle</string>
+    <string name="app_name">ProviderPassi</string>
+    <string name="booster_config_version">"Versione CC attuale:"</string>
+    <string name="cc_version">"Versione CC attuale:"</string>
+    <string name="connect_wifi">Nessuna connessione WiFi disponibile</string>
+    <string name="detect_fakecell">Riconosce gli SMS provenienti da celle fasulle</string>
+    <string name="end_title">Game Over</string>
+    <string name="forbidden_fakecell">"Non collegarti a celle fasulle"</string>
+    <string name="forbidden_fakecell_summary">Previene la connessione del telefono a celle fasulle</string>
+    <string name="foreground_text">Usa il servizio in primo piano per promuovere il livello attivo</string>
+    <string name="foreground_title">service_foreground</string>
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="joyose_name">Celle Fake</string>
+    <string name="lab_switch_server">Cambia server</string>
+    <string name="not_resurge_title">Resurrezione</string>
+    <string name="not_support_forbidden_fakecell">"Il tuo dispositivo non supporta la protezione a livello chip dalle celle fasulle."</string>
+    <string name="open_cta">\"Apri l\'app Sicurezza e \"Consenti connessione Internet\" nelle Impostazioni</string>
+    <string name="permstep_description">\"Consenti all\'applicazione di leggere le informazioni sui passi dal telefono</string>
+    <string name="permstep_label">Leggi i passi</string>
+    <string name="restart_details">L\'attivazione di questa funzione richiede il riavvio del telefono. Riattivare adesso?</string>
+    <string name="restart_later">Più tardi</string>
+    <string name="restart_now">Riavvia desso</string>
+    <string name="resurged_content">Forza!</string>
+    <string name="resurged_title">Risorto</string>
+    <string name="stop_sync">NON sincronizzare automaticamente</string>
+    <string name="support_forbidden_fakecell">Nota: limitando la connessione alle celle fasulle potresti ridurre il segnle nelle arre con scarsa copertura.</string>
+    <string name="switch_international">Passa a server internazionali</string>
+    <string name="switch_to_official">Passa a server ufficiali</string>
+    <string name="switch_to_russia">Passa al server russo</string>
+    <string name="switch_to_staging">Passa ad un server di appoggio</string>
+    <string name="unknown_error">Errore sconosciuto</string>
+    <string name="update_success">Aggiornato con successo</string>
 </resources>
