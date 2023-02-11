@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Memoria esterna</string>
-    <string name="root_documents">Documenti</string>
-    <string name="root_internal_storage">Memoria interna</string>
-    <string name="storage_description">Memoria locale</string>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>Nov</item>
+        <item>0</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>D</item>
+        <item>G</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
 </resources>
