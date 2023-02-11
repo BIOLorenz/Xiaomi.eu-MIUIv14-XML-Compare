@@ -1,9 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_label">Telefono/Memoria messaggi</string>
-    <string name="mms_provider_label">MMS</string>
-    <string name="mms_sms_provider_label">Messaggi</string>
-    <string name="siminfo_default_name">SIM %d</string>
-    <string name="sms_provider_label">SMS</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
+    <string-array name="alphabet_sub_table_with_starred">
+        <item>!</item>
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>H</item>
+        <item>I</item>
+        <item>G</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>Nov</item>
+        <item>0</item>
+        <item>P</item>
+        <item>Q</item>
+        <item>R</item>
+        <item>D</item>
+        <item>G</item>
+        <item>U</item>
+        <item>V</item>
+        <item>W</item>
+        <item>X</item>
+        <item>A</item>
+        <item>Z</item>
+        <item>\#</item>
+    </string-array>
+    <string-array name="disable_package_replacement">
+        <item>disabilita nome pacchetto</item>
+    </string-array>
+    <string-array name="exo_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>@string/exo_controls_playback_speed_normal</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="set_video_wallpaper_three_items">
+        <item>@string/wallpaper_set_as_lockscreen</item>
+        <item>@string/wallpaper_set_as_desktop</item>
+        <item>@string/wallpaper_apply_full</item>
+    </string-array>
+    <string-array name="set_video_wallpaper_three_items_with_incall">
+        <item>@string/wallpaper_set_as_lockscreen</item>
+        <item>@string/wallpaper_set_as_desktop</item>
+        <item>@string/wallpaper_apply_full</item>
+        <item>@string/wallpaper_set_as_incall_show</item>
+    </string-array>
+    <string-array name="set_wallpaper_two_items">
+        <item>@string/wallpaper_set_as_desktop</item>
+        <item>@string/wallpaper_apply_full</item>
+    </string-array>
+    <string-array name="set_wallpaper_two_items_with_incall">
+        <item>@string/wallpaper_set_as_desktop</item>
+        <item>@string/wallpaper_apply_full</item>
+        <item>@string/wallpaper_set_as_incall_show</item>
+    </string-array>
+    <string-array name="system_cta_runtime_perm_desc_above_eleven">
+        <item>@string/system_cta_runtime_perm_desc_read_phone_state</item>
+        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
+    </string-array>
+    <string-array name="system_cta_runtime_perm_desc_non_phone_state_above_eleven">
+        <item>@string/system_cta_runtime_perm_desc_storage_above_eleven</item>
+    </string-array>
 </resources>
