@@ -1,143 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="city_label">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>D</item>
-        <item>E</item>
-        <item>V</item>
-        <item>G</item>
-        <item>H</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>Nov</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>D</item>
-        <item>G</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-    </string-array>
-    <string-array name="data_net_usage_number">
-        <item>不设上限</item>
-        <item>100M</item>
-        <item>200M</item>
-        <item>500M</item>
-        <item>Personalizzato</item>
-    </string-array>
-    <string-array name="device_use_camera_one">
-        <item>jason</item>
-        <item>sagit</item>
-        <item>chiron</item>
-        <item>whyred</item>
-        <item>nitrogen</item>
-        <item>wayne</item>
-        <item>ysl</item>
-        <item>sakura</item>
-        <item>clover</item>
-        <item>cactus</item>
-        <item>cereus</item>
-        <item>platina</item>
-        <item>tulip</item>
-        <item>sakura_india</item>
-        <item>lavender</item>
-        <item>lotus</item>
-        <item>laurus</item>
-        <item>olive</item>
-        <item>olivelite</item>
-        <item>pine</item>
-        <item>olivewood</item>
-        <item>willow</item>
-        <item>lime</item>
-        <item>citrus</item>
-        <item>lemon</item>
-        <item>pomelo</item>
-        <item>iris</item>
-        <item>XIG02</item>
-        <item>lilac</item>
-        <item>amber</item>
-    </string-array>
-    <string-array name="gb_adv_touch_custom_level">
-        <item>Più basso</item>
-        <item>Bassa</item>
-        <item>Normale</item>
-        <item>Alta</item>
-        <item>Migliore</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_anisotropic">
-        <item>1X</item>
-        <item>2X</item>
-        <item>4X</item>
-        <item>8X</item>
-        <item>16X</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_anisotropic_value">
-        <item>1.0</item>
-        <item>2.0</item>
-        <item>4.0</item>
-        <item>8.0</item>
-        <item>16.0</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_anti">
-        <item>1X</item>
-        <item>2X</item>
-        <item>4X</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_anti_value">
-        <item>1</item>
-        <item>0</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_cut_anti">
-        <item>2X</item>
-        <item>4X</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_cut_anti_value">
-        <item>0</item>
-        <item>4</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_cut_texture">
-        <item>Bilanciato</item>
-        <item>Alta qualità</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_cut_texture_value">
-        <item>Bilanciato</item>
-        <item>Predefinita</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_fps">
-        <item>40</item>
-        <item>45</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_lod_value">
-        <item>-2.0</item>
-        <item>-1.0</item>
-        <item>0.0</item>
-        <item>1.0</item>
-        <item>2.0</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_texture">
-        <item>Alta velocità</item>
-        <item>Bilanciato</item>
-        <item>Alta qualità</item>
-    </string-array>
-    <string-array name="gb_gpu_custom_texture_value">
-        <item>Rapidissimo</item>
-        <item>Bilanciato</item>
-        <item>Predefinita</item>
-    </string-array>
-    <string-array name="parent_center_item_array">
-        <item>应用管理</item>
-        <item>时间管理</item>
-        <item>网络设置</item>
-        <item>安全保护</item>
-        <item>护眼模式</item>
-        <item>Altre impostazioni</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d nuove notifiche</item>
+        <item quantity="one">%d nuova notifica</item>
+    </plurals>
+    <plurals name="net_booster_expire_notification_tip">
+        <item quantity="other">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorno. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
+        <item quantity="one">La tua sessione di potenziamento della velocità di rete terminerà tra %d giorno. Potresti iniziare a sperimentare ritardi di rete. Rinnova la sessione ora?</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s ora</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s min</item>
+        <item quantity="one">%s min</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s minuti dello schermo rimanenti</item>
+        <item quantity="one">%s min del tempo rimanente dello schermo</item>
+    </plurals>
 </resources>
