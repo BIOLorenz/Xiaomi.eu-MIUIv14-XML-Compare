@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="date_time">EEE, dd MMMM</string>
-    <string name="date_time_12">EEE, dd MMMM</string>
+    <string name="desc_date_format">EEEE, dd MMM</string>
+    <string name="desc_date_format_12">EEEE, dd MMM</string>
     <string name="weather_type_null">'Nessun dato'</string>
     <string name="weather_type_0">Cancella</string>
     <string name="weather_type_1">Nuvoloso</string>
@@ -27,5 +27,4 @@
     <string name="weather_type_21">Tempesta di sabbia</string>
     <string name="weather_type_22">Grandine</string>
     <string name="weather_type_24">Foschia</string>
-    <string name="weather_type_25">Pioggia gelata</string>
 </resources>
