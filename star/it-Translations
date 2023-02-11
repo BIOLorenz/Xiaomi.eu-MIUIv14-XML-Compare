@@ -1,342 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="absent_num">
-        <item>NUMERO ASSENTE</item>
-        <item>ABSENTNUMBER</item>
-    </string-array>
-    <string-array name="alphabet_sub_table_with_starred">
-        <item>!</item>
-        <item>A</item>
-        <item>B</item>
-        <item>C</item>
-        <item>H</item>
-        <item>I</item>
-        <item>G</item>
-        <item>K</item>
-        <item>L</item>
-        <item>M</item>
-        <item>Nov</item>
-        <item>0</item>
-        <item>P</item>
-        <item>Q</item>
-        <item>R</item>
-        <item>D</item>
-        <item>G</item>
-        <item>U</item>
-        <item>V</item>
-        <item>W</item>
-        <item>X</item>
-        <item>A</item>
-        <item>Z</item>
-        <item>\#</item>
-    </string-array>
-    <string-array name="cdma_subscription_choices">
-        <item>RUIM/SIM</item>
-        <item>NV</item>
-    </string-array>
-    <string-array name="cdma_system_select_choices">
-        <item>Solo domestica</item>
-        <item>Automatico</item>
-    </string-array>
-    <string-array name="clir_values">
-        <item>\u0020PREDEFINITO</item>
-        <item>HIDE</item>
-        <item>SHOW</item>
-    </string-array>
-    <string-array name="clir_values_default_only">
-        <item>\u0020PREDEFINITO</item>
-    </string-array>
-    <string-array name="config_rcs_provision_error_on_publish_response">
-        <item>404 non trovato</item>
-    </string-array>
-    <string-array name="config_volte_provision_error_on_publish_response">
-        <item>403 non autorizzato per la presenza</item>
-    </string-array>
-    <string-array name="connect_disconnect_vibrate_entries_support_haptic2">
-        <item>@string/connect_disconnect_vibrate_normal</item>
-        <item>@string/connect_disconnect_vibrate_none</item>
-    </string-array>
-    <string-array name="connect_disconnect_vibrate_entry_values">
-        <item>100</item>
-        <item>50</item>
-        <item>0</item>
-    </string-array>
-    <string-array name="connect_disconnect_vibrate_entry_values_support_haptic2">
-        <item>110</item>
-        <item>1</item>
-    </string-array>
-    <string-array name="country_support_esim">
-        <item>FR</item>
-        <item>GB</item>
-        <item>IT</item>
-        <item>ES</item>
-        <item>PT</item>
-        <item>DE</item>
-        <item>BE</item>
-        <item>N</item>
-        <item>IE</item>
-        <item>LU</item>
-        <item>UA</item>
-        <item>PL</item>
-        <item>CZ</item>
-        <item>HU</item>
-        <item>GR</item>
-        <item>RO</item>
-        <item>SI</item>
-        <item>SK</item>
-        <item>AT</item>
-        <item>HR</item>
-        <item>MK</item>
-        <item>AL</item>
-        <item>RS</item>
-        <item>ME</item>
-        <item>RU</item>
-        <item>BY</item>
-        <item>UZ</item>
-        <item>KZ</item>
-        <item>S-E</item>
-        <item>NO</item>
-        <item>FI</item>
-        <item>DK</item>
-        <item>EE</item>
-        <item>LT</item>
-        <item>LV</item>
-        <item>SA</item>
-        <item>ZA</item>
-        <item>CL</item>
-        <item>TH</item>
-        <item>MY</item>
-        <item>TW</item>
-        <item>JP</item>
-        <item>SG</item>
-        <item>Glicemia</item>
-    </string-array>
-    <string-array name="enhanced_4g_lte_mode_title_variant">
-        <item>@string/enhanced_4g_lte_mode_title</item>
-        <item>Chiamata Avanzata</item>
-        <item>Chiamata 4G</item>
-    </string-array>
-    <string-array name="hour_12_items">
-        <item>12</item>
-        <item>01</item>
-        <item>02</item>
-        <item>03</item>
-        <item>04</item>
-        <item>05</item>
-        <item>06</item>
-        <item>07</item>
-        <item>08</item>
-        <item>09</item>
-        <item>10</item>
-        <item>11</item>
-    </string-array>
-    <string-array name="hour_24_items">
-        <item>00</item>
-        <item>01</item>
-        <item>02</item>
-        <item>03</item>
-        <item>04</item>
-        <item>05</item>
-        <item>06</item>
-        <item>07</item>
-        <item>08</item>
-        <item>09</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>30</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-    </string-array>
-    <string-array name="list_language_entries">
-        <item>Inglese</item>
-        <item>Francese</item>
-        <item>Spagnolo</item>
-        <item>Giapponese</item>
-        <item>Coreano</item>
-        <item>Cinese</item>
-        <item>Hebrew</item>
-    </string-array>
-    <string-array name="minute_items">
-        <item>00</item>
-        <item>01</item>
-        <item>02</item>
-        <item>03</item>
-        <item>04</item>
-        <item>05</item>
-        <item>06</item>
-        <item>07</item>
-        <item>08</item>
-        <item>09</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>30</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>40</item>
-        <item>31</item>
-        <item>32s</item>
-        <item>33</item>
-        <item>34</item>
-        <item>35</item>
-        <item>36</item>
-        <item>37</item>
-        <item>38</item>
-        <item>38</item>
-        <item>40</item>
-        <item>41</item>
-        <item>42</item>
-        <item>43</item>
-        <item>44</item>
-        <item>45</item>
-        <item>46</item>
-        <item>47</item>
-        <item>48</item>
-        <item>49</item>
-        <item>50</item>
-        <item>51</item>
-        <item>52</item>
-        <item>53</item>
-        <item>54</item>
-        <item>55</item>
-        <item>56</item>
-        <item>57</item>
-        <item>58</item>
-        <item>59</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices">
-        <item>Preferito GSM/WCDMA </item>
-        <item>Solo reti GSM</item>
-        <item>Solo reti WCDMA</item>
-        <item>Auto GSM/WCDMA</item>
-        <item>Auto CDMA/EvDo</item>
-        <item>CDMA senza EvDo</item>
-        <item>Solo EvDo</item>
-        <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>CDMA + LTE/EvDo</item>
-        <item>GSM/WCDMA/LTE</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
-        <item>LTE</item>
-        <item>LTE/WCDMA</item>
-        <item>Solo TDSCDMA</item>
-        <item>TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA</item>
-        <item>TDSCDMA/GSM</item>
-        <item>LTE/TDSCDMA/GSM</item>
-        <item>TDSCDMA/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/WCDMA</item>
-        <item>LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
-        <item>Solo NR</item>
-        <item>NR/LTE</item>
-        <item>NR/LTE/CDMA/EvDo</item>
-        <item>NR/LTE/GSM/WCDMA</item>
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
-        <item>NR/LTE/WCDMA</item>
-        <item>NR/LTE/TDSCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM</item>
-        <item>NR/LTE/TDSCDMA/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
-        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
-    </string-array>
-    <string-array name="preferred_network_mode_choices_world_mode">
-        <item>NR/LTE/CDMA/EvDo/GSM/WCDMA</item>
-        <item>LTE / CDMA</item>
-        <item>LTE / GSM / UMTS</item>
-    </string-array>
-    <string-array name="preferred_network_mode_values">
-        <item>0</item>
-        <item>1</item>
-        <item>2</item>
-        <item>3</item>
-        <item>4</item>
-        <item>5</item>
-        <item>6</item>
-        <item>7</item>
-        <item>8</item>
-        <item>9</item>
-        <item>10</item>
-        <item>11</item>
-        <item>12</item>
-        <item>13</item>
-        <item>14</item>
-        <item>15</item>
-        <item>16</item>
-        <item>17</item>
-        <item>18</item>
-        <item>19</item>
-        <item>20</item>
-        <item>21</item>
-        <item>22</item>
-        <item>23</item>
-        <item>24</item>
-        <item>25</item>
-        <item>26</item>
-        <item>27</item>
-        <item>28</item>
-        <item>29</item>
-        <item>30</item>
-        <item>31</item>
-        <item>32s</item>
-        <item>33</item>
-    </string-array>
-    <string-array name="region_support_volte">
-        <item>HK;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,vince,rosy</item>
-        <item>CN</item>
-        <item>IN</item>
-        <item>MY</item>
-        <item>KR;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron</item>
-        <item>KH;capricorn,gemini,lithium,natrium,sagit,scorpio,chiron,ugg,ugglite,rosy,riva</item>
-        <item>US;scorpio,chiron</item>
-        <item>TW;sagit,chiron,vince,rosy</item>
-        <item>MO;sagit,chiron</item>
-        <item>JP;sagit,chiron</item>
-        <item>ID;riva,vince,rosy</item>
-        <item>SG;vince,rosy</item>
-        <item>RU;vince,rosy</item>
-    </string-array>
-    <string-array name="time_formate_items">
-        <item>@string/time_formate_am</item>
-        <item>@string/time_formate_pm</item>
-    </string-array>
-    <string-array name="transport_types">
-        <item>UDP</item>
-        <item>TCP</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_td_choices">
-        <item>GSM</item>
-        <item>TD-SCDMA</item>
-        <item>LTE</item>
-        <item>Mod. tripla</item>
-    </string-array>
-    <string-array name="uplmn_prefer_network_mode_w_choices">
-        <item>GSM</item>
-        <item>WCDMA</item>
-        <item>LTE</item>
-        <item>Mod. tripla</item>
-    </string-array>
+    <plurals name="a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="one">un\'ora fa</item>
+        <item quantity="other">un\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="auto_answer_summary_delay">
+        <item quantity="other">ritardo: %s secondi</item>
+        <item quantity="one">ritardo: %d secondo</item>
+    </plurals>
+    <plurals name="call_record_add_white_list_over_reminder">
+        <item quantity="other">Puoi aggiungere fino a %s persone, seleziona di nuovo.</item>
+        <item quantity="one">Puoi aggiungere %s persona, seleziona di nuovo.</item>
+    </plurals>
+    <plurals name="call_record_auto_whitelist_summary">
+        <item quantity="other">%d numeri</item>
+        <item quantity="one">%d numero</item>
+    </plurals>
+    <plurals name="call_remove_exception_numbers_confirm">
+        <item quantity="other">%d numeri verranno eliminati.</item>
+        <item quantity="one">%d numero verrà eliminato.</item>
+    </plurals>
+    <plurals name="day">
+        <item quantity="other">%s giorni</item>
+        <item quantity="one">%s giorno</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="one">mezz\'ora fa</item>
+        <item quantity="other">mezz\'ora fa</item>
+    </plurals>
+    <plurals name="hour">
+        <item quantity="other">%s ore</item>
+        <item quantity="one">%s ora</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="one">Tra 1 ora</item>
+        <item quantity="other">Tra 1 ora</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="one">Tra mezz\'ora</item>
+        <item quantity="other">Tra mezz\'ora</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="one">Subito</item>
+        <item quantity="other">adesso</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">tra %d minuti</item>
+        <item quantity="one">tra 1 minuto</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="one">Proprio adesso</item>
+        <item quantity="other">ora</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d elementi selezionati</item>
+        <item quantity="one">%d elemento selezionato</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuti fa</item>
+        <item quantity="one">1 minuto fa</item>
+    </plurals>
+    <plurals name="pin_attempts">
+        <item quantity="other">"
+%d tentativi rimanenti."</item>
+        <item quantity="one">"
+%d tentativo rimanente."</item>
+    </plurals>
 </resources>
